@@ -67,3 +67,6 @@ Unity experiments
 [Mockup of Unity house and character control](https://www.youtube.com/watch?v=nLYyOLWQ0LE)
 
 ## 3. Transforming
+
+[AI music tool GitHub](https://github.com/maxfrenzel/SampleVAE/blob/master/README.md)
+
