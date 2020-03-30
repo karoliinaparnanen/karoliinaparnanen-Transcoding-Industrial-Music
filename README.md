@@ -61,6 +61,7 @@ At its birth, the genre of industrial music was different from any other music, 
 ## 2. Preserving
 
 Unity experiments
+[![Playing video in Unity](https://img.youtube.com/vi/xUCTD_W1Jg4/0.jpg)](https://www.youtube.com/watch?v=xUCTD_W1Jg4)
 
 [Playing video in Unity](https://youtu.be/xUCTD_W1Jg4)
 
