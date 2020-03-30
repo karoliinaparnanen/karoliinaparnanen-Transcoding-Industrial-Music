@@ -66,8 +66,8 @@ At its birth, the genre of industrial music was different from any other music, 
 
 Unity experiments
 
-[https://youtu.be/xUCTD_W1Jg4](https://youtu.be/xUCTD_W1Jg4)
+[Playing video in Unity](https://youtu.be/xUCTD_W1Jg4)
 
-[Transcoding%20Industrial%20Music/hoteltest.mov](Transcoding%20Industrial%20Music/hoteltest.mov)
+[Mockup of Unity house and character control](https://www.youtube.com/watch?v=nLYyOLWQ0LE)
 
 ## 3. Transforming
