@@ -62,14 +62,12 @@ At its birth, the genre of industrial music was different from any other music, 
 
 Unity experiments
 [![Playing video in Unity](https://img.youtube.com/vi/xUCTD_W1Jg4/0.jpg)](https://www.youtube.com/watch?v=xUCTD_W1Jg4)
-Click me to play video.
 
-[Playing video in Unity](https://youtu.be/xUCTD_W1Jg4)
+Click me to play video (Video play test Unity).
 
 [![Mockup of Unity house and character control](https://img.youtube.com/vi/nLYyOLWQ0LE/0.jpg)](https://www.youtube.com/watch?v=nLYyOLWQ0LE)
-Click me to play video.
 
-[Mockup of Unity house and character control](https://www.youtube.com/watch?v=nLYyOLWQ0LE)
+Click me to play video (House test Unity).
 
 ### 2.1 Creating an industrial music character
 <img src="https://rahim-soft.com/wp-content/uploads/2018/12/Makehuman-1.1.1-Free-Download-10.jpg" width="400">
