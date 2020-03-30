@@ -72,5 +72,6 @@ http://www.makehumancommunity.org/
 
 ## 3. Transforming
 [AI music tool GitHub](https://github.com/maxfrenzel/SampleVAE/blob/master/README.md)
+
 [Article about SampleVAE](https://maxfrenzel.com/articles/samplevae-a-multi-purpose-ai-tool-for-music-producers-and-sound-designers)
 
