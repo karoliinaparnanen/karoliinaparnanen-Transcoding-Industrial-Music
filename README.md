@@ -60,13 +60,10 @@ At its birth, the genre of industrial music was different from any other music, 
 
 ## 2. Preserving
 
-Unity experiments
 [![Playing video in Unity](https://img.youtube.com/vi/xUCTD_W1Jg4/0.jpg)](https://www.youtube.com/watch?v=xUCTD_W1Jg4)
-
 Click me to play video (Video play test Unity).
 
 [![Mockup of Unity house and character control](https://img.youtube.com/vi/nLYyOLWQ0LE/0.jpg)](https://www.youtube.com/watch?v=nLYyOLWQ0LE)
-
 Click me to play video (House test Unity).
 
 ### 2.1 Creating an industrial music character
