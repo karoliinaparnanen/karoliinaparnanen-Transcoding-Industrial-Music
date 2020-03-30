@@ -3,6 +3,7 @@
 ## Extreme Art 1 - Industrial Compilation 1987
 
 ![Transcoding%20Industrial%20Music/extremeart6.jpg](Transcoding%20Industrial%20Music/extremeart6.jpg =300x) 
+<img src="Transcoding%20Industrial%20Music/extremeart6.jpg" width="300">
 
 ![Transcoding%20Industrial%20Music/extremeart5_copy.jpg](Transcoding%20Industrial%20Music/extremeart5_copy.jpg =300x)
 
