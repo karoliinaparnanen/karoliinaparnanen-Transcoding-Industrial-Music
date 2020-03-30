@@ -67,8 +67,8 @@ Unity experiments
 [Mockup of Unity house and character control](https://www.youtube.com/watch?v=nLYyOLWQ0LE)
 
 ### 2.1 Creating an industrial music character
-http://www.makehumancommunity.org/
 <img src="https://rahim-soft.com/wp-content/uploads/2018/12/Makehuman-1.1.1-Free-Download-10.jpg" width="400">
+http://www.makehumancommunity.org/
 
 ## 3. Transforming
 [AI music tool GitHub](https://github.com/maxfrenzel/SampleVAE/blob/master/README.md)
