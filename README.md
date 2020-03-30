@@ -2,11 +2,11 @@
 
 ## Extreme Art 1 - Industrial Compilation 1987
 
-![Transcoding%20Industrial%20Music/extremeart6.jpg](Transcoding%20Industrial%20Music/extremeart6.jpg)
+![Transcoding%20Industrial%20Music/extremeart6.jpg](Transcoding%20Industrial%20Music/extremeart6.jpg =300x) 
 
-![Transcoding%20Industrial%20Music/extremeart5_copy.jpg](Transcoding%20Industrial%20Music/extremeart5_copy.jpg)
+![Transcoding%20Industrial%20Music/extremeart5_copy.jpg](Transcoding%20Industrial%20Music/extremeart5_copy.jpg =300x)
 
-![Transcoding%20Industrial%20Music/extremeart8_copy.jpg](Transcoding%20Industrial%20Music/extremeart8_copy.jpg)
+![Transcoding%20Industrial%20Music/extremeart8_copy.jpg](Transcoding%20Industrial%20Music/extremeart8_copy.jpg =300x)
 
 A compilation VHS tape of industrial music, including music videos and live performances. 
 
