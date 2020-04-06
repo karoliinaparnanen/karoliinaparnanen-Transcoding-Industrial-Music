@@ -43,18 +43,6 @@ At its birth, the genre of industrial music was different from any other music, 
 - Making industrial music trendy again
 - Why? Criticising pop culture and how it takes things out of context and uses them for its benefit without a proper respect of copyrights.
 
-### 1.1 Creating a sample pack of non-instruments
-
-https://soundcloud.com/karoliina-parnanen/sets/industrial-music-samples/s-5nKJsZ48y3U
-
-### 1.2 Creating a sample pack with AI using the music from VHS using Python
-https://github.com/maxfrenzel/SampleVAE 
-Creates 2 second samples based on the imput material.
-
-### 1.2 Creating a track with my own samples and samples from the VHS
-<img src="https://i.pinimg.com/originals/98/1f/b3/981fb3231f1404f194528d78d396863c.png" width="800">
-
-
 ## 2. Preserving industrial music
 
 - Creating a virtual reality experience with Unity.
@@ -69,6 +57,19 @@ Creates 2 second samples based on the imput material.
 # Transcoding experiments
 
 ## 1. Upcycling
+
+### 1.1 Creating a sample pack of non-instruments
+
+https://soundcloud.com/karoliina-parnanen/sets/industrial-music-samples/s-5nKJsZ48y3U
+
+### 1.2 Creating a sample pack with AI using the music from VHS using Python
+https://github.com/maxfrenzel/SampleVAE 
+Creates 2 second samples based on the imput material.
+
+### 1.3 Creating a track with my own samples and samples from the VHS
+<img src="https://i.pinimg.com/originals/98/1f/b3/981fb3231f1404f194528d78d396863c.png" width="800">
+
+### 1.4 Using my music as a soundscape in the Unity environment
 
 ## 2. Preserving
 
@@ -88,12 +89,20 @@ http://www.makehumancommunity.org/
 [![Mockup of Unity house and character control](https://img.youtube.com/vi/3rHuGfupeYA/0.jpg)](https://youtu.be/3rHuGfupeYA)
 Click me to play video (Characters moving).
 
+### 2.1 Implementing the character into a scene
+1. First the player sees the original performance from a screen in Unity.
 [![Mockup of Unity house and character control](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)](https://youtu.be/yYAMkwFTI3E)
 Click image to play video. Recreating this performance from the Extreme Art VHS. 
 
+2. After that the user sees my own physical recreation of this performance.
+
+3. Finally the user enters the 3D simulation of this performance.
 
 ## 3. Transforming
+
+### 3.1 Creating a sample pack with AI using the music from VHS using Python
 [AI music tool GitHub](https://github.com/maxfrenzel/SampleVAE/blob/master/README.md)
+Creates 2 second samples based on the imput material.
 
 [Article about SampleVAE](https://maxfrenzel.com/articles/samplevae-a-multi-purpose-ai-tool-for-music-producers-and-sound-designers)
 
