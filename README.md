@@ -70,8 +70,8 @@ Click me to play video (House test Unity).
 <img src="https://rahim-soft.com/wp-content/uploads/2018/12/Makehuman-1.1.1-Free-Download-10.jpg" width="400">
 http://www.makehumancommunity.org/
 
-<img src="https://i.pinimg.com/originals/75/48/45/7548451055652fe5110f7cde49b3e03c.png" width="300">
-<img src="https://i.pinimg.com/originals/59/30/ef/5930ef6e57a00c24e8e4eb7e7fc2df61.png" width="300">
+<img src="https://i.pinimg.com/originals/75/48/45/7548451055652fe5110f7cde49b3e03c.png" width="600">
+<img src="https://i.pinimg.com/originals/59/30/ef/5930ef6e57a00c24e8e4eb7e7fc2df61.png" width="600">
 
 [![Mockup of Unity house and character control](https://img.youtube.com/vi/3rHuGfupeYA/0.jpg)](https://youtu.be/3rHuGfupeYA)
 Click me to play video (Characters moving).
