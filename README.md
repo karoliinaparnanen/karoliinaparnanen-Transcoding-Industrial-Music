@@ -58,7 +58,7 @@ At its birth, the genre of industrial music was different from any other music, 
 
 ## 1. Upcycling
 
-### 1.1 Creating a sample pack of non-instruments
+### 1.1 Creating my own sample pack of non-instruments
 
 https://soundcloud.com/karoliina-parnanen/sets/industrial-music-samples/s-5nKJsZ48y3U
 
