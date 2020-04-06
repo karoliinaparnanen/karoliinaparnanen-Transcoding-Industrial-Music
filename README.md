@@ -47,6 +47,10 @@ At its birth, the genre of industrial music was different from any other music, 
 
 https://soundcloud.com/karoliina-parnanen/sets/industrial-music-samples/s-5nKJsZ48y3U
 
+### 1.2 Creating a track with my own samples and samples from the VHS
+<img src="https://i.pinimg.com/originals/98/1f/b3/981fb3231f1404f194528d78d396863c.png" width="800">
+
+
 ## 2. Preserving industrial music
 
 - Creating a virtual reality experience with Unity.
