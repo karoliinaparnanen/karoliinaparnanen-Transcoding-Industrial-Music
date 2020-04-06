@@ -47,6 +47,10 @@ At its birth, the genre of industrial music was different from any other music, 
 
 https://soundcloud.com/karoliina-parnanen/sets/industrial-music-samples/s-5nKJsZ48y3U
 
+### 1.2 Creating a sample pack with AI using the music from VHS using Python
+https://github.com/maxfrenzel/SampleVAE 
+Creates 2 second samples based on the imput material.
+
 ### 1.2 Creating a track with my own samples and samples from the VHS
 <img src="https://i.pinimg.com/originals/98/1f/b3/981fb3231f1404f194528d78d396863c.png" width="800">
 
