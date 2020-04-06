@@ -76,6 +76,10 @@ http://www.makehumancommunity.org/
 [![Mockup of Unity house and character control](https://img.youtube.com/vi/3rHuGfupeYA/0.jpg)](https://youtu.be/3rHuGfupeYA)
 Click me to play video (Characters moving).
 
+[![Mockup of Unity house and character control](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)](https://youtu.be/yYAMkwFTI3E)
+Click image to play video. Recreating this performance from the Extreme Art VHS. 
+
+
 ## 3. Transforming
 [AI music tool GitHub](https://github.com/maxfrenzel/SampleVAE/blob/master/README.md)
 
