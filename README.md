@@ -44,7 +44,7 @@ At its birth, the genre of industrial music was different from any other music, 
 - Why? Criticising pop culture and how it takes things out of context and uses them for its benefit without a proper respect of copyrights.
 
 ### 1.1 Creating a sample pack of non-instruments
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1026540967%3Fsecret_token%3Ds-5nKJsZ48y3U&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+[Soundcloud height="390" url="https://soundcloud.com/karoliina-parnanen/sets/industrial-music-samples/s-5nKJsZ48y3U"]
 
 ## 2. Preserving industrial music
 
