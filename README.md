@@ -89,6 +89,10 @@ http://www.makehumancommunity.org/
 [![Mockup of Unity house and character control](https://img.youtube.com/vi/3rHuGfupeYA/0.jpg)](https://youtu.be/3rHuGfupeYA)
 Click me to play video (Characters moving).
 
+[![Mockup of dancing characters.](https://img.youtube.com/vi/66QS7464yMM/0.jpg)](https://youtu.be/3rHuGfupeYA)
+Click me to play video of characters dancing.
+
+
 ### 2.1 Implementing the character into a scene
 1. First the player sees the original performance from a screen in Unity.
 [![Mockup of Unity house and character control](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)](https://youtu.be/yYAMkwFTI3E)
