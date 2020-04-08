@@ -7,10 +7,11 @@
 A compilation VHS tape of industrial music, including music videos and live performances. 
 
 ## Recorded material from IISG archive
-[(https://img.youtube.com/vi/pbLU5sWaxpU/0.jpg)](https://youtu.be/3rHuGfupeYA)
+(https://img.youtube.com/vi/pbLU5sWaxpU/0.jpg)](https://youtu.be/3rHuGfupeYA)
 [https://youtu.be/pbLU5sWaxpU](https://youtu.be/pbLU5sWaxpU)
 
-[(https://img.youtube.com/vi/niiSebM-xY0/0.jpg)]
+
+(https://img.youtube.com/vi/niiSebM-xY0/0.jpg)]
 [https://youtu.be/niiSebM-xY0](https://youtu.be/niiSebM-xY0)
 
 [(https://img.youtube.com/vi/1UI8wKR2U3I/0.jpg)]
