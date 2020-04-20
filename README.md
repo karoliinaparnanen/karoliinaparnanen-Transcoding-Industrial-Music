@@ -110,8 +110,12 @@ Creates 2 second samples based on the imput material.
 
 [Article about SampleVAE](https://maxfrenzel.com/articles/samplevae-a-multi-purpose-ai-tool-for-music-producers-and-sound-designers)
 
-<img src="Transcoding%20Industrial%20Music/traineddataset1.png" width="600">
-<img src="Transcoding%20Industrial%20Music/base-error1.2.png" width="600">
-<img src="Transcoding%20Industrial%20Music/base-error1.2.png" width="600">
-<img src="Transcoding%20Industrial%20Music/env.png" width="600">
-<img src="Transcoding%20Industrial%20Music/envSampleVAE.png" width="600">
+<img src="Transcoding%20Industrial%20Music/traineddataset1.png" width="600"> </br>
+Training the data set with music sample works.
+<img src="Transcoding%20Industrial%20Music/base-error1.2.png" width="600"> </br>
+Why is it on (base)? 
+<img src="Transcoding%20Industrial%20Music/base-error1.2.png" width="600"> </br>
+<img src="Transcoding%20Industrial%20Music/env.png" width="600"> </br>
+When I try to go on my "tutorial-env" folder (that I created following a "create a virtual Python environment" tutorial) where the SampleVAE program is it doesn't work.
+<img src="Transcoding%20Industrial%20Music/envSampleVAE.png" width="600"></br>
+How do I run the program on my computer? From which location should I operate in terminal to run the command "from tool_class import *"? 
