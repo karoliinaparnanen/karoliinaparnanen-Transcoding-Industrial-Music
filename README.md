@@ -110,3 +110,8 @@ Creates 2 second samples based on the imput material.
 
 [Article about SampleVAE](https://maxfrenzel.com/articles/samplevae-a-multi-purpose-ai-tool-for-music-producers-and-sound-designers)
 
+<img src="Transcoding%20Industrial%20Music/traineddataset1.png" width="600">
+<img src="Transcoding%20Industrial%20Music/base-error1.2.png" width="600">
+<img src="Transcoding%20Industrial%20Music/base-error1.2.png" width="600">
+<img src="Transcoding%20Industrial%20Music/env.png" width="600">
+<img src="Transcoding%20Industrial%20Music/envSampleVAE.png" width="600">
