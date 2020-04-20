@@ -64,6 +64,7 @@ https://soundcloud.com/karoliina-parnanen/sets/industrial-music-samples/s-5nKJsZ
 ### 1.2 Creating a sample pack with Python AI using the music from VHS
 https://github.com/maxfrenzel/SampleVAE 
 Creates 2 second samples based on the input material.
+[Example of a track produced by samples of this program](https://soundcloud.com/taktilednb/neuralfunk)
 
 ### 1.3 Creating a track with my own samples and samples from the VHS
 <img src="https://i.pinimg.com/originals/98/1f/b3/981fb3231f1404f194528d78d396863c.png" width="800">
