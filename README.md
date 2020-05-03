@@ -19,6 +19,8 @@ The artefacts in question are two industrial music complilations called "Extreme
 
 ## Metadata
 
+### Artefact 1 – Extreme Art 1: Industrial Music Compilation
+
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [CSD BG V2/410 ](https://search.iisg.amsterdam/Record/1046576)
@@ -27,7 +29,19 @@ The artefacts in question are two industrial music complilations called "Extreme
 | **Medium** | Video
 | **Materials** | Plastic, magnetic tape, paper.
 | **Date** | 1987
-|![VHS cover](<img src="Transcoding%20Industrial%20Music/extremeart6.jpg">)| The washed out pink, purple, blue, white and black shaded cover image shows a video still closeup of a man's face. From the camera's perspective, the man is looking down on the viewer with half-closed eyelids. His mouth is relaxed. The strong contrast, half washed out face and pixels that remind one of an 80's television screen make the image of him appear dreamlike, ecstatic and intentionally grunfy and careless. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "1" stands isolated in a bigger size on the lower left corner. 
+|![VHS cover](<img src="Transcoding%20Industrial%20Music/extremeart6.jpg">)| The washed out pink, purple, blue, white and black shaded cover image shows a video still closeup of a man's face. From the camera's perspective, the man is looking down on the viewer with half-closed eyelids. His mouth is relaxed. The strong contrast, half washed out face and pixels that remind one of an 80's television screen make the image of him appear dreamlike, ecstatic and intentionally grunfy and careless. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "1" stands isolated in a bigger size on the lower left corner. The dimensions of the VHS tape inside are 18.7 × 10.2 × 2.5 cm. 
+
+### Artefact 2– Extreme Art 2: Industrial Music Compilation
+
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [CSD BG V2/411](https://search.iisg.amsterdam/Record/1046580)
+| **Physical Description** | VHS. 60 min. 
+| **Type** | Visual Document
+| **Medium** | Video
+| **Materials** | Plastic, magnetic tape, paper.
+| **Date** | 1988
+|![VHS cover](<img src="Transcoding%20Industrial%20Music/extremeart6.jpg">)| The washed out purple, blue, white and black shaded cover image shows a a video still of a photographic, ghost-like figure approaching the viewer with open hands. The figure is heavily lit from the back, so any details of the figure are not visible. The black figure's silhouette is visible over a light, almost white background. the image quality resembles that of an 80's television screen capture. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "2" stands isolated in a bigger size on the lower left corner. The dimensions of the VHS tape inside are 18.7 × 10.2 × 2.5 cm. 
 
 # Research
 
@@ -35,7 +49,9 @@ The artefacts in question are two industrial music complilations called "Extreme
 The birth of industrial music was a response to an age in which the access and control of information were becoming the primary tools of power. Industrial music draws on harsh, transgressive or provocative sounds and themes. It is a form of **anti-music**, descendant of **da-da**, **surrealist** and **performance art** and an artistic yet intellectual manifestation of **nihilism**. As an artistic movement, it has formed due to the simultaneous fear and fascination of **how the information revolution and the effects of the age of mechanical reproduction affects the human condition and social consciousness.** **Industrial musicians “create particular modernist aesthetics that attempt **to comprehend and comment on what came to be known as the ‘modern crisis’ of the twentieth century.**
 
 ## Stylistic Methods of Industrial Music
-At its birth, the genre of industrial music was different from any other music, and its **use of technology and disturbing lyrics and themes to tear apart preconceptions about the necessary rules of musical** form supports seeing industrial music as modernist music. Instead of rallying youth behind political slogans, **industrial artists preferred to “decondition” the individual listener by confronting taboos.** As the purpose of all art is to expand the beholder's perception, so was the purpose of industrial music to help the listener achieve a better understanding and awareness of **how the advent of technology influences his view of the world.** Industrial music also got known for its unconventional use of instruments, often including self-modified  instruments and so-called **non-intruments** or found objects, which could be any objects the artist felt fitting to create auditory atmospheres. Use of drones and noise was popular. It often combined electronic instruments, such as **the keyoard and computer programming with electric guitars, bass, drums and vocals**. Lyrics were often present, but not easily understood word by word. The literal text of the lyrics was less important than creating an atmosphere were the listener could let go of their preconceptions of music and taste. 
+At its birth, the genre of industrial music was different from any other music, and its **use of technology and disturbing lyrics and themes to tear apart preconceptions about the necessary rules of musical** form supports seeing industrial music as modernist music. Instead of rallying youth behind political slogans, **industrial artists preferred to “decondition” the individual listener by confronting taboos.** As the purpose of all art is to expand the beholder's perception, so was the purpose of industrial music to help the listener achieve a better understanding and awareness of **how the advent of technology influences his view of the world.** The industrial musicians created a particular modernist aesthetics that attemted to comprehend and comment on what came to be known as the "modern" crisis of the twentieth century". 
+
+Industrial music also got known for its unconventional use of instruments, often including self-modified instruments and so-called **non-intruments** or found objects, which could be any objects the artist felt fitting to create auditory atmospheres. Use of drones and noise was popular. It often combined electronic instruments, such as **the keyoard and computer programming with electric guitars, bass, drums and vocals**. Lyrics were often present, but not easily understood word by word. The literal text of the lyrics was less important than creating an atmosphere were the listener could let go of their preconceptions of music and taste. 
 
 The VHS tape includes an impressive overview of different stylistic methods, musical and visual approaches to industrial music. Its anarchist atmosphere enabled a rich variety of subgenres to develop, such as Substyles inspirted by industrial music include dark ambient, power electronics, Japanoise, neofolk, electro-industrial, electronic body music, industrial hip hop, industrial rock, industrial metal, industrial pop, martial industrial, power noise, and witch house.. 
 
