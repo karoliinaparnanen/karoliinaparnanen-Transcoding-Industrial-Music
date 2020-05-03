@@ -61,6 +61,7 @@ Bizarr Verlag was a Munich based label owned by **Markus Schmölz**, which speci
 [bizarrverlag.de](https://www.bizarrverlag.com/). 
 
 # Transcoding
+In my transcoding I wanted to research how a time-specific subculture could potentially be preserved with contemporary mediums. When the spirit of an aesthetical and political movement is taken out of its context, how will this affect the way it is perceived? How will the viewer exprience the industrial music scene through the context of a video game? On my transcoding I focused on two methods, preservation and transformation. On the other hand I wish to preserve the spirit of industrial music in a medium that is more approachable for the current generations, but on the other hand I was interested in exploring how the medium transforms and mutates the original in the process of translation. How does the death of a medium, such as the VHS tape, affect the relevance of historical movements, that were mostly recorded in mediums that are not popular anymore, and whose content can not be found through modern mediums, such as the internet? Could giving an internet life to an analog medium enhance its relevane in the current age?
 
 ## Transcoding Tool 
 ### Description
