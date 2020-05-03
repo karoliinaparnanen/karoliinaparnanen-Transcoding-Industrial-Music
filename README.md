@@ -172,5 +172,17 @@ Currently, the tool/models treat all samples as 2 second long clips. Shorter fil
 
 For the purpose of building the library, an additional parameter, library_segmentation, can be set to True when initialising the tool. If False, files in the library are simply considered as their first 2 second. However, if True, the segments within longer files are considered as individual samples for the purpose of the library and similarity search. Note that while this is implemented and technically working, the segmentation currently seems too sensitive.
 
-<summary>CLICK ME</summary>
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 
