@@ -172,7 +172,7 @@ Currently, the tool/models treat all samples as 2 second long clips. Shorter fil
 
 For the purpose of building the library, an additional parameter, library_segmentation, can be set to True when initialising the tool. If False, files in the library are simply considered as their first 2 second. However, if True, the segments within longer files are considered as individual samples for the purpose of the library and similarity search. Note that while this is implemented and technically working, the segmentation currently seems too sensitive.
 
-### Documentation of one Terminal session
+### Example of a full Terminal session following the above instructions
 
 <details><summary>Click me to view terminal session</summary>
 <p>
