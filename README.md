@@ -86,7 +86,7 @@ With this tool I wanted to embody the spirit of industrial music by taking the t
     - matplotlib==3.1.1
     - scikit_learn==0.21.3
     
-<details><summary>DETAILED INSTRUCTIONS ON HOW TO EXECUTE THE PROGRAM IN TERINAL</summary>
+### <details><summary>DETAILED INSTRUCTIONS ON HOW TO EXECUTE THE PROGRAM IN TERINAL</summary>
 <p>
 The following instructions follow the original guidance of Max Frenzel, with some additions that I found helpful myself when using the code.
 
