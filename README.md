@@ -76,7 +76,7 @@ Use the `make_dataset.py` script to generate a new dataset for trainig. The main
 For example, to search for files in the directories `/Users/Shared/Decoded Forms Library/Samples` and `/Users/Shared/Maschine 2 Library`, and create the dataset called `NativeInstruments`, run the command
 
 ```
-  python make_dataset.py --data_dir '/Users/Shared/Decoded Forms Library/Samples' '/Users/Shared/Maschine 2 Library' --dataset_name NativeInstruments
+ python make_dataset.py --data_dir '/Users/Shared/Decoded Forms Library/Samples' '/Users/Shared/Maschine 2 Library' --dataset_name NativeInstruments
 ```
 
 By default, the data is split randomly into 90% train and 10% validation data. The optional `train_ratio` parameter (defaults to 0.9) can be used to specify a different split.
@@ -171,3 +171,6 @@ Additionally the variance parameter (default: 0) can be used to add some Gaussia
 Currently, the tool/models treat all samples as 2 second long clips. Shorter files get padded, longer files crop.
 
 For the purpose of building the library, an additional parameter, library_segmentation, can be set to True when initialising the tool. If False, files in the library are simply considered as their first 2 second. However, if True, the segments within longer files are considered as individual samples for the purpose of the library and similarity search. Note that while this is implemented and technically working, the segmentation currently seems too sensitive.
+
+<summary>CLICK ME</summary>
+
