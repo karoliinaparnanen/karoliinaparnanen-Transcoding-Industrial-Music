@@ -3927,13 +3927,13 @@ Reconstructing audio.
 </details>
 
 ### Source Links
-[Max Frenzel SampleVAE GitHub Documenation] (https://github.com/maxfrenzel/SampleVAE)
-[Python] (https://www.python.org/)
-[joblib](https://joblib.readthedocs.io/en/latest/)
-[Scipy](https://www.scipy.org/)
-[tqdm](https://github.com/tqdm/tqdm)
-[Librosa](https://librosa.github.io/librosa/)
-[TensorFlow](https://www.tensorflow.org/install/pip)
-[Numpy](https://numpy.org/)
-[MatPlotLib](https://matplotlib.org/)
-[SciKit-Learn](https://scikit-learn.org/stable/)
+-[Max Frenzel SampleVAE GitHub Documenation](https://github.com/maxfrenzel/SampleVAE)
+-[Python](https://www.python.org/)
+-[joblib](https://joblib.readthedocs.io/en/latest/)
+-[Scipy](https://www.scipy.org/)
+-[tqdm](https://github.com/tqdm/tqdm)
+-[Librosa](https://librosa.github.io/librosa/)
+-[TensorFlow](https://www.tensorflow.org/install/pip)
+-[Numpy](https://numpy.org/)
+-[MatPlotLib](https://matplotlib.org/)
+-[SciKit-Learn](https://scikit-learn.org/stable/)
