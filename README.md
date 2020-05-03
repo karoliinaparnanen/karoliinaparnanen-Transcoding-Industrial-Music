@@ -60,6 +60,8 @@ Industrial music's anarchist atmosphere enabled a rich variety of subgenres to d
 Bizarr Verlag was a Munich based label owned by **Markus Schmölz**, which specialized in audio tour recordings in big cities around the world. Their sublabel AudioTours Streetlife published a series of field recordings. Nowadays the label is an online store selling cards, stickers and other merchandise. 
 [bizarrverlag.de](https://www.bizarrverlag.com/). 
 
+# Transcoding
+
 ## Transcoding Tool 
 ### Description
 You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
