@@ -74,18 +74,20 @@ With this tool I wanted to embody the spirit of industrial music by taking the t
 
 ### Methods
 - Coding language Python
-- Platform Terminal
+- Download Python scripts and models from [SampleVAE documentation] (https://github.com/maxfrenzel/SampleVAE)
+- Execute the Python scripts through Terminal
 - Required libraries and plugins to be installed via Terminal:
     - joblib==0.13.2
     - scipy==1.3.1
     - tqdm==4.31.1
     - librosa==0.7.1
-    - tensorflow==1.13.2
+    - tensorflow==1.13.2M
     - numpy==1.16.4
     - matplotlib==3.1.1
     - scikit_learn==0.21.3
-
-
+    
+<details><summary>DETAILED INSTRUCTIONS ON HOW TO EXECUTE THE PROGRAM IN TERINAL</summary>
+<p>
 The following instructions follow the original guidance of Max Frenzel, with some additions that I found helpful myself when using the code.
 
 #### Making a dataset for training
@@ -3917,7 +3919,8 @@ Reconstructing audio.
 >>> 
 
 ```
-
+</p>
+</details>
 </p>
 </details>
 
