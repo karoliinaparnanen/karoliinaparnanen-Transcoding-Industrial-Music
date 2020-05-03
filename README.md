@@ -156,21 +156,7 @@ Additionally the `variance` parameter (default: 0) can be used to add some Gauss
 #### Note on sample length and audio segmentation
 Currently, the tool/models treat all samples as 2 second long clips. Shorter files get padded, longer files crop.
 
-For the purpose of building the library, an additional parameter, `library_segmentation`, can be set to `True` when initialising the tool. If `False`, files in the library are simply considered as their first 2 second. However, if `True`, the segments within longer files are considered as individual samples for the purpose of the library and similarity search.
-Note that while this is implemented and technically working, the segmentation currently seems too sensitive.
-
-tool.generate(out_file='generated.wav')
-To encode one or multiple files, pass the filenames as a list of strings to the audio_files parameter. If the parameter weights is not specified, the resulting embeddings will be averaged over before decoding into a single audio file. Alternatively, a list of numbers can be passed to weights to set the respective weights of each input sample in the average. By default, the weights get normalised. E.g. the following code combines an example kick and snare, with a 1:2 ratio:
-
-tool.generate(out_file='generated.wav', audio_files=['/Users/Shared/Maschine 2 Library/Samples/Drums/Kick/Kick Accent 1.wav','/Users/Shared/Decoded Forms Library/Samples/Drums/Snare/Snare Anodyne 3.wav'], weigths=[1,2])
-Weight normalisation can be turned off by passing normalize_weights=False. This allows for arbitrary vector arithmetic with the embedding vectors, e.g. using a negative weight to subtract one vector from another.
-
-Additionally the variance parameter (default: 0) can be used to add some Gaussian noise before decoding, to add random variation to the samples.
-
-### Note on sample length and audio segmentation
-Currently, the tool/models treat all samples as 2 second long clips. Shorter files get padded, longer files crop.
-
-For the purpose of building the library, an additional parameter, library_segmentation, can be set to True when initialising the tool. If False, files in the library are simply considered as their first 2 second. However, if True, the segments within longer files are considered as individual samples for the purpose of the library and similarity search. Note that while this is implemented and technically working, the segmentation currently seems too sensitive.
+For the purpose of building the library, an additional parameter, `library_segmentation`, can be set to `True` when initialising the tool. If `False`, files in the library are simply considered as their first 2 second. However, if `True`, the segments within longer files are considered as individual samples for the purpose of the library and similarity search.Note that while this is implemented and technically working, the segmentation currently seems too sensitive.
 
 ### Example of a full Terminal session following the above instructions
 
