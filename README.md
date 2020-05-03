@@ -5,6 +5,8 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
+        [Artefact 1](##Artefact 1 – Extreme Art 1: Industrial Music Compilation)
+        [Artefact 2](##Artefact 2 – Extreme Art 1: Industrial Music Compilation)
 2. [Research](#Research-h1)
 3. [Transcoding](#Transcoding)
     1. [Transcoding No. 1](#Transcoding-no-1)
@@ -17,9 +19,9 @@
 # Artefact
 The artefacts in question are two industrial music complilations called "Extreme Art 1: Industrial Compilation" published in 1987 and "Extreme Art 2: Industrial Compilation" published in 1988 by Bizarr Verlag in Germany. The VHS tapes include music videos, live music performances and art performances from various artists from around the world, focusing on European artists. 
 
-## Metadata
+# Metadata
 
-### Artefact 1 – Extreme Art 1: Industrial Music Compilation
+## Artefact 1 – Extreme Art 1: Industrial Music Compilation
 
 | Tag | Data |  
 |--|--|
@@ -31,7 +33,7 @@ The artefacts in question are two industrial music complilations called "Extreme
 | **Date** | 1987
 |![VHS cover](<img src="Transcoding%20Industrial%20Music/extremeart6.jpg">)| The washed out pink, purple, blue, white and black shaded cover image shows a video still closeup of a man's face. From the camera's perspective, the man is looking down on the viewer with half-closed eyelids. His mouth is relaxed. The strong contrast, half washed out face and pixels that remind one of an 80's television screen make the image of him appear dreamlike, ecstatic and intentionally grunfy and careless. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "1" stands isolated in a bigger size on the lower left corner. The dimensions of the VHS tape inside are 18.7 × 10.2 × 2.5 cm. 
 
-### Artefact 2– Extreme Art 2: Industrial Music Compilation
+## Artefact 2– Extreme Art 2: Industrial Music Compilation
 
 | Tag | Data |  
 |--|--|
