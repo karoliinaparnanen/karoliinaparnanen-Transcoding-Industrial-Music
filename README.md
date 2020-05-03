@@ -66,12 +66,29 @@ In my transcoding I wanted to research how a time-specific subculture could pote
 ## Transcoding Tool
 On the transcoding tool I focused on the part of transformation. What would happen to the original sounds if they were fed into an artificial intelligence algorithm that would try to recreate the samples based on the industrial music material. 
 
-### Sample VAE - A multi-pupose tool for sound design and music production
-For my transcoding tool I found a deep learning-based tool made originally by Max Frenzel. The original documentation can be found on his [GitHub page](https://github.com/maxfrenzel/SampleVAE). The tool allows for various types of new sample generation, as well as sound classification, and searching for similar samples in an existing sample library. The coding language used is Python, and the scripting is executed via Terminal. The deep learning part is implemented in TensorFlow and consists mainly of a Variational Autoencoder (VAE) with Inverse Autoregressive Flows (IAF) and an optional classifier network on top of the VAE's encoder's hidden state. You can read further [about the SampleVAE method in this article.](https://towardsdatascience.com/samplevae-a-multi-purpose-ai-tool-for-music-producers-and-sound-designers-e966c7562f22?source=friends_link&sk=588d13c6080568aca63f98e4d3835c87)
+### Description: Sample VAE - A multi-pupose tool for sound design and music production
+A deep learning-based tool made originally by Max Frenzel. The original documentation can be found on his [GitHub page](https://github.com/maxfrenzel/SampleVAE). The tool allows for various types of new sample generation, as well as sound classification, and searching for similar samples in an existing sample library. The deep learning part is implemented in TensorFlow and consists mainly of a Variational Autoencoder (VAE) with Inverse Autoregressive Flows (IAF) and an optional classifier network on top of the VAE's encoder's hidden state. You can read further [about the SampleVAE method in this article.](https://towardsdatascience.com/samplevae-a-multi-purpose-ai-tool-for-music-producers-and-sound-designers-e966c7562f22?source=friends_link&sk=588d13c6080568aca63f98e4d3835c87)
+
+### Aims
+With this tool I wanted to embody the spirit of industrial music by taking the tools of music and noise creating into my own hands by producing sounds created by the algorithm. I wanted to see how a relatively simple artificial intelligence algorithm transforms the original source material. How much will the samples differ from one another? Will it be able to produce more than mere noise? 
+
+### Methods
+- Coding language Python
+- Platform Terminal
+- Required libraries and plugins to be installed via Terminal:
+    - joblib==0.13.2
+    - scipy==1.3.1
+    - tqdm==4.31.1
+    - librosa==0.7.1
+    - tensorflow==1.13.2
+    - numpy==1.16.4
+    - matplotlib==3.1.1
+    - scikit_learn==0.21.3
+
 
 The following instructions follow the original guidance of Max Frenzel, with some additions that I found helpful myself when using the code.
 
-### Making a dataset for training
+#### Making a dataset for training
 Use the `make_dataset.py` script to generate a new dataset for trainig. The main parameters are `data_dir` and `dataset_name`. The former is a directory (or multiple directories) in which to look for samples (files ending in .wav, .aiff, or .mp3; only need to specify root directory, the script looks into all sub directories). The latter should a unique name for this dataset.
 For example, to search for files in the directories `/Users/Shared/Decoded Forms Library/Samples` and `/Users/Shared/Maschine 2 Library`, and create the dataset called `NativeInstruments`, run the command
 
@@ -81,12 +98,12 @@ For example, to search for files in the directories `/Users/Shared/Decoded Forms
 
 By default, the data is split randomly into 90% train and 10% validation data. The optional `train_ratio` parameter (defaults to 0.9) can be used to specify a different split.
 
-#### Creating a dataset that includes class information
+##### Creating a dataset that includes class information
 To add a classifier to the model, use `make_dataset_classifier.py` instead. This script works essentially in the same way as `make_dataset.py`, but it treats the immediate sub-directories in `data_dir` as class names, and assumes all samples within them belong to that resepective class.
 
 Currently only simple multiclass classification is supported. There is also no weighting of the classes happening so you should make sure that classes are as balanced as possible. Also, the current version does the train/validation split randomly; making sure the split happens evenly across classes is a simple future improvement.
 
-### Training a model
+#### Training a model
 To train a model, use the `train.py` script. The main parameters of interest are `logdir` and `dataset`.
 
 `logdir` specifies a unique name for the model to be trained, and creates a directory in which model checkpoints and other files are saved. Training can later be resumed from this.
@@ -108,7 +125,7 @@ When resuming a previously aborted model training, the dataset does not have to 
 
 If the dataset contains classification data, a confusion matrix is plotted and stored in `logdir` at every test step.
 
-### Pre-trained Models
+#### Pre-trained Models
 Three trained models are provided:
 
 `model_general`: A model trained on slightly over 60k samples of all types. This is the same dataset that was used in my NeuralFunk project (https://towardsdatascience.com/neuralfunk-combining-deep-learning-with-sound-design-91935759d628). This model does not have a classifier.
@@ -117,7 +134,7 @@ Three trained models are provided:
 
 `model_drum_machines`: A model trained on roughly 4k drum sounds, with a classifier of 71 different drum machine classes (e.g. Ace Tone Rhythm Ace, Akai XE8, Akai XR10 etc). Note that this is a tiny dataset with a very large number of classes, each only containing a handful of examples. This model is only included as an example of what's possible, not as a really useful model in itself.
 
-### Running the sound sample tool with a trained model
+#### Running the sound sample tool with a trained model
 To use the sample tool, start a python environment and run
 
 ```
