@@ -1,3 +1,5 @@
+<img src="Transcoding%20Industrial%20Music/coverphoto.jpg" width="300">
+
 # Transcoding Industrial Music
 
 ## Extreme Art 1 - Industrial Compilation 1987
