@@ -5,7 +5,7 @@
 ### Table of Contents
 1. [Artefact](#Artefact)
     1. [Metadata](#Metadata)
-     1. [Artefact 1](##Artefact 1 – Extreme Art 1: Industrial Music Compilation)
+     1. [Artefact 1](##Artefact 1)
      1. [Artefact 2](##Artefact 2 – Extreme Art 1: Industrial Music Compilation)
 2. [Research](#Research-h1)
 3. [Transcoding](#Transcoding)
