@@ -2,6 +2,33 @@
 
 # Transcoding Industrial Music
 
+### Table of Contents
+1. [Artefact](#Artefact)
+    1. [Metadata](#Metadata)
+2. [Research](#Research-h1)
+3. [Transcoding](#Transcoding)
+    1. [Transcoding No. 1](#Transcoding-no-1)
+    2. [Transcoding Tool](#Transcoding-tool)
+4. [Reflection](#Reflection)
+5. [Outcome](#Outcome)
+6. [Conclusion](#Conclusion)
+7. [Bibliography](#Bibliography) 
+
+# Artefact
+The artefacts in question are two industrial music complilations called "Extreme Art 1: Industrial Compilation" published in 1987 and "Extreme Art 2: Industrial Compilation" published in 1988 by Bizarr Verlag in Germany. The VHS tapes include music videos, live music performances and art performances from various artists from around the world, focusing on European artists. 
+
+## Metadata
+
+| Tag | Data |  
+|--|--|
+**IISG Call Number** | [CSD BG V2/410 ](https://search.iisg.amsterdam/Record/1046576)
+| **Physical Description** | VHS. 60 min. 
+| **Type** | Visual Document
+| **Medium** | Video
+| **Materials** | Plastic, magnetic tape, paper.
+| **Date** | 1987
+|![enter image description here](https://i.etsystatic.com/17079094/r/il/3ec709/1578951673/il_794xN.1578951673_liqk.jpg)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+
 ## Extreme Art 1 - Industrial Compilation 1987
 
 <img src="Transcoding%20Industrial%20Music/extremeart6.jpg" width="300"> <img src="Transcoding%20Industrial%20Music/extremeart5_copy.jpg" width="300"> <img src="Transcoding%20Industrial%20Music/extremeart8_copy.jpg" width="600">
