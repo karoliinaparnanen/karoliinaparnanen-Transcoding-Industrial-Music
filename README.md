@@ -21,7 +21,7 @@ The artefacts in question are two industrial music complilations called "Extreme
 
 # Metadata
 
-## Artefact 1 – Extreme Art 1: Industrial Music Compilation
+## Artefact 1
 
 | Tag | Data |  
 |--|--|
