@@ -91,12 +91,12 @@ To train a model, use the `train.py` script. The main parameters of interest are
 
 `logdir` specifies a unique name for the model to be trained, and creates a directory in which model checkpoints and other files are saved. Training can later be resumed from this.
 
-`dataset` refers to a dataset created through the `make_dataset.py` script, e.g. `NativeInstruments` in the example above.
+`dataset` refers to a dataset created through the `make_dataset.py` script, e.g. `IndustrialDataset` in the example above.
 
-To train a model called `model_NI` on the above dataset, use
+To train a model called `model_Industrial` on the above dataset, use
 
 ```
-  python train.py --logdir model_NI --dataset NativeInstruments
+  python train.py --logdir model_Industrial --dataset IndustrialDataset
 ```
 
 On first training on a new dataset, all the features have to be calculated. This may take a while. When restarting the training later, or training a new model with same dataset and audio parameters, existing features are loaded.
@@ -127,7 +127,7 @@ from tool_class import *
 You can now instantiate a SoundSampleTool class. For example to instatiate a tool based on the above model, run.
 
 ```
-tool = SoundSampleTool('model_NI', library_dir='/Users/MySampleLibrary')
+tool = SoundSampleTool('model_Industrial', library_dir='/Users/MySampleLibrary')
 ```
 
 The parameter `library_dir` is optional and specifies a sample library root directory, `/Users/MySampleLibrary` in the example above. It is required to perform similarity search on this sample library. If specified, an attempt is made to load embeddings for this library. If none are found, new embeddings are calculated which may take a while (depending on sample library size).
