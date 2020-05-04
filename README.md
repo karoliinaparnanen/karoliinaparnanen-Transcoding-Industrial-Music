@@ -66,7 +66,7 @@ In my transcoding I wanted to research how a time-specific subculture could pote
 On my transcoding I focused on two methods, preservation and transformation. On the other hand I wish to preserve the spirit of industrial music in a medium that is more approachable for the current generations, but on the other hand I was interested in exploring how the medium transforms and mutates the original in the process of translation. 
 
 ## Transcoding 1: Industrial Character
-The first transcoding I created was an attemot to create a character that would fit a digital environment of industrial music.
+The first transcoding I created was an attempt to create a character that would fit a digital environment of industrial music.
 
 ### Description
 
@@ -90,10 +90,12 @@ I wanted to recreate a performance where a man was rolling around naked in trans
 
 Here I used [MakeHuman](http://www.makehumancommunity.org/) to create the naked character, and attached the pieces of cloth in [Unity](https://unity.com/). Some programming with C# was included as well. The cloths were added in Unity and their materials were also created in Unity. </br>
 
-<img src="Transcoding%20Industrial%20Music/makehuman.png" width=500>
-<img src="Transcoding%20Industrial%20Music/makehumanclose.png" width=300> <img src="Transcoding%20Industrial%20Music/unityperformance.png" width=500>
+<img src="Transcoding%20Industrial%20Music/makehuman.png" width=600>
+<img src="Transcoding%20Industrial%20Music/makehumanclose.png" width=300> <img src="Transcoding%20Industrial%20Music/unityperformance.png" width=600>
 
-###
+### Results
+A video clip of the transcoding can be seen in [YouTube](https://www.youtube.com/watch?v=mQrRI3le31k)
+![https://img.youtube.com/vi/mQrRI3le31k/0.jpg](https://img.youtube.com/vi/mQrRI3le31k/0.jpg)
 
 ## Transcoding Tool
 On the transcoding tool I focused on the part of transformation. What would happen to the original sounds if they were fed into an artificial intelligence algorithm that would try to recreate the samples based on the industrial music material. 
