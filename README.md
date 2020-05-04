@@ -3926,6 +3926,9 @@ Reconstructing audio.
 </p>
 </details>
 
+### Results
+A [playlist](https://soundcloud.com/karoliina-parnanen/sets/ai-generated-noise-sample-pack-based-on-industrial-music/s-ixZuDiOzWbp) of 2s samples by usind different trained datasets can be found here.
+
 ### Source Links
 - [Max Frenzel SampleVAE GitHub Documenation](https://github.com/maxfrenzel/SampleVAE)
 - [Python](https://www.python.org/)
