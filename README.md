@@ -29,7 +29,9 @@ The artefacts in question are two industrial music complilations called "Extreme
 | **Medium** | Video
 | **Materials** | Plastic, magnetic tape, paper.
 | **Date** | 1987
-|![VHS cover](Transcoding%20Industrial%20Music/extremeart6.jpg)| The washed out pink, purple, blue, white and black shaded cover image shows a video still closeup of a man's face. From the camera's perspective, the man is looking down on the viewer with half-closed eyelids. His mouth is relaxed. The strong contrast, half washed out face and pixels that remind one of an 80's television screen make the image of him appear dreamlike, ecstatic and intentionally grunfy and careless. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "1" stands isolated in a bigger size on the lower left corner. The dimensions of the VHS tape inside are 18.7 × 10.2 × 2.5 cm. 
+|![VHS cover](Transcoding%20Industrial%20Music/extremeart6.jpg)| The washed out pink, purple, blue, white and black shaded cover image shows a video still closeup of a man's face. From the camera's perspective, the man is looking down on the viewer with half-closed eyelids. His mouth is relaxed. The strong contrast, half washed out face and pixels that remind one of an 80's television screen make the image of him appear dreamlike, ecstatic and intentionally grunfy and careless. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "1" stands isolated in a bigger size on the lower left corner. The dimensions of the VHS tape inside are 18.7 × 10.2 × 2.5 cm. <br>
+
+<img src="Transcoding%20Industrial%20Music/tracklist1.png" width=600><br>
 
 ## Artefact 2 – Extreme Art 2: Industrial Music Compilation
 
@@ -41,7 +43,9 @@ The artefacts in question are two industrial music complilations called "Extreme
 | **Medium** | Video
 | **Materials** | Plastic, magnetic tape, paper.
 | **Date** | 1988
-|![VHS cover](Transcoding%20Industrial%20Music/extremeart.jpg)| The washed out purple, blue, white and black shaded cover image shows a a video still of a photographic, ghost-like figure approaching the viewer with open hands. The figure is heavily lit from the back, so any details of the figure are not visible. The black figure's silhouette is visible over a light, almost white background. the image quality resembles that of an 80's television screen capture. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "2" stands isolated in a bigger size on the lower left corner. The dimensions of the VHS tape inside are 18.7 × 10.2 × 2.5 cm. 
+|![VHS cover](Transcoding%20Industrial%20Music/extremeart.jpg)| The washed out purple, blue, white and black shaded cover image shows a a video still of a photographic, ghost-like figure approaching the viewer with open hands. The figure is heavily lit from the back, so any details of the figure are not visible. The black figure's silhouette is visible over a light, almost white background. the image quality resembles that of an 80's television screen capture. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "2" stands isolated in a bigger size on the lower left corner. The dimensions of the VHS tape inside are 18.7 × 10.2 × 2.5 cm. <br>
+
+<img src="Transcoding%20Industrial%20Music/tracklist2.png" width=600><br>
 
 # Research
 
