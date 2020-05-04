@@ -61,7 +61,37 @@ Bizarr Verlag was a Munich based label owned by **Markus Schmölz**, which speci
 [bizarrverlag.de](https://www.bizarrverlag.com/). 
 
 # Transcoding
-In my transcoding I wanted to research how a time-specific subculture could potentially be preserved with contemporary mediums. When the spirit of an aesthetical and political movement is taken out of its context, how will this affect the way it is perceived? How will the viewer exprience the industrial music scene through the context of a video game? On my transcoding I focused on two methods, preservation and transformation. On the other hand I wish to preserve the spirit of industrial music in a medium that is more approachable for the current generations, but on the other hand I was interested in exploring how the medium transforms and mutates the original in the process of translation. How does the death of a medium, such as the VHS tape, affect the relevance of historical movements, that were mostly recorded in mediums that are not popular anymore, and whose content can not be found through modern mediums, such as the internet? Could giving an internet life to an analog medium enhance its relevane in the current age?
+In my transcoding I wanted to research how a time-specific subculture could potentially be preserved with contemporary mediums. When the spirit of an aesthetical and political movement is taken out of its context, how will this affect the way it is perceived? How will the viewer exprience the industrial music scene through the context of a video game? How does the death of a medium, such as the VHS tape, affect the relevance of historical movements, that were mostly recorded in mediums that are not popular anymore, and whose content can not be found through modern mediums, such as the internet? Could giving an internet life to an analog medium enhance its relevane in the current age?
+
+On my transcoding I focused on two methods, preservation and transformation. On the other hand I wish to preserve the spirit of industrial music in a medium that is more approachable for the current generations, but on the other hand I was interested in exploring how the medium transforms and mutates the original in the process of translation. 
+
+## Transcoding 1: Industrial Character
+The first transcoding I created was an attemot to create a character that would fit a digital environment of industrial music.
+
+### Description
+
+Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
+
+You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
+
+### Methods
+Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
+
+With some HTML tags you can do simple styling in markdown, for example:
+
+    <width="50%">
+[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
+
+Remember to include the url link to jump to the full media, of course! 
+
+## Transcoding 2: Recreating a performance
+
+### Description
+I wanted to recreate a performance where a man was rolling around naked in transparent plastic, accompanied by some fast industrial music with screaming guitars and yelling vocals. Without sound, the performance is almost dreamy and surreal, whereas with sound it transforms into a discomforting demonstration of human distress and frustration. I wanted to play with the dreaminess of the setup and bring to life in the digital world. 
+
+### Methods
+![https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)
+[Original performance](https://www.youtube.com/watch?v=yYAMkwFTI3E) as captured from the Extreme Art 1 VHS. 
 
 ## Transcoding Tool
 On the transcoding tool I focused on the part of transformation. What would happen to the original sounds if they were fed into an artificial intelligence algorithm that would try to recreate the samples based on the industrial music material. 
