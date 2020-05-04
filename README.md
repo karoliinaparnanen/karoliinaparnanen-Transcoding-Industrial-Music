@@ -77,13 +77,18 @@ The human was designed in MakeHuman. This program was chosen since it includes a
 <img src="Transcoding%20Industrial%20Music/character.png" width=400>
 <img src="Transcoding%20Industrial%20Music/character2.png" width=400></br>
 
+### Results
+A video clip where the MakeHuman characters are applied to Unity and a character controller script and animations are applied to character. You can view the video by clicking on the image below. The recording was made with QuickTime Player and sound added afterwards in Adobe Premiere.
+
+![https://img.youtube.com/vi/66QS7464yMM/0.jpg](https://img.youtube.com/vi/66QS7464yMM/0.jpg)
+
 ## Transcoding 2: Recreating a performance
 
 ### Description
 I wanted to recreate a performance where a man was rolling around naked in transparent plastic, accompanied by some fast industrial music with screaming guitars and yelling vocals. Without sound, the performance is almost dreamy and surreal, whereas with sound it transforms into a discomforting demonstration of human distress and frustration. I wanted to play with the dreaminess of the setup and bring to life in the digital world. 
 
 ### Methods
-![https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)
+![https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)</br>
 [Original performance](https://www.youtube.com/watch?v=yYAMkwFTI3E) as captured from the Extreme Art 1 VHS. 
 
 Here I used [MakeHuman](http://www.makehumancommunity.org/) to create the naked character, and attached the pieces of cloth in [Unity](https://unity.com/). Some programming with C# was included as well. The cloths were added in Unity and their materials were also created in Unity. </br>
