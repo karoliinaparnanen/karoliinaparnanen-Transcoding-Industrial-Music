@@ -77,11 +77,6 @@ You should include well-formatted documentation of your experiments and developm
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
 
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
 Remember to include the url link to jump to the full media, of course! 
 
 ## Transcoding 2: Recreating a performance
@@ -92,6 +87,12 @@ I wanted to recreate a performance where a man was rolling around naked in trans
 ### Methods
 ![https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)
 [Original performance](https://www.youtube.com/watch?v=yYAMkwFTI3E) as captured from the Extreme Art 1 VHS. 
+
+Here I used [MakeHuman](http://www.makehumancommunity.org/) to create the naked character, and attached the pieces of cloth in [Unity](https://unity.com/). Some programming with C# was included as well.
+<img src="Transcoding%20Industrial%20Music/makehuman.png" width=300>
+<img src="Transcoding%20Industrial%20Music/makehumanclose.png" width=300>
+
+###
 
 ## Transcoding Tool
 On the transcoding tool I focused on the part of transformation. What would happen to the original sounds if they were fed into an artificial intelligence algorithm that would try to recreate the samples based on the industrial music material. 
