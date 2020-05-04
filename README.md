@@ -94,7 +94,8 @@ Here I used [MakeHuman](http://www.makehumancommunity.org/) to create the naked 
 <img src="Transcoding%20Industrial%20Music/makehumanclose.png" width=300> <img src="Transcoding%20Industrial%20Music/unityperformance.png" width=600>
 
 ### Results
-A video clip of the transcoding can be seen in [YouTube](https://www.youtube.com/watch?v=mQrRI3le31k)
+A video clip of the transcoding can be seen in [YouTube](https://www.youtube.com/watch?v=mQrRI3le31k). </br>
+
 ![https://img.youtube.com/vi/mQrRI3le31k/0.jpg](https://img.youtube.com/vi/mQrRI3le31k/0.jpg)
 
 ## Transcoding Tool
