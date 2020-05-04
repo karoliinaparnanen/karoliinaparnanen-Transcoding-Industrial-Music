@@ -69,15 +69,13 @@ On my transcoding I focused on two methods, preservation and transformation. On 
 The first transcoding I created was an attempt to create a character that would fit a digital environment of industrial music.
 
 ### Description
-
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
-
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
+I did research on the VHS video and online looking for the aesthetics of the industrial music movement. They often seemed to be playing with combining punk and business aesthetics, as if somehow mocking the office culture of the newly industrialized cities. This is what I wanted to rech in my character as well, which I designed in [MakeHuman](http://www.makehumancommunity.org/). On the image below you see an example from the original artefact.</br>
+<img src="Transcoding%20Industrial%20Music/montycantsin.png" width=600></br>
 
 ### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-Remember to include the url link to jump to the full media, of course! 
+The human was designed in MakeHuman. This program was chosen since it includes a high possibility of modification. The character became male, since men were the dominating sex in the industrial music movement. They often appeared skinny and raw. 
+<img src="Transcoding%20Industrial%20Music/character.png" width=400>
+<img src="Transcoding%20Industrial%20Music/character2.png" width=400></br>
 
 ## Transcoding 2: Recreating a performance
 
@@ -94,7 +92,7 @@ Here I used [MakeHuman](http://www.makehumancommunity.org/) to create the naked 
 <img src="Transcoding%20Industrial%20Music/makehumanclose.png" width=300> <img src="Transcoding%20Industrial%20Music/unityperformance.png" width=600>
 
 ### Results
-A video clip of the transcoding can be seen in [YouTube](https://www.youtube.com/watch?v=mQrRI3le31k). </br>
+A video clip of the transcoding can be seen in [YouTube](https://www.youtube.com/watch?v=mQrRI3le31k). The Unity recording was made by Unity Recorder, an internal Plugin for Unity. </br>
 
 ![https://img.youtube.com/vi/mQrRI3le31k/0.jpg](https://img.youtube.com/vi/mQrRI3le31k/0.jpg)
 
