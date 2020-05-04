@@ -73,7 +73,7 @@ I did research on the VHS video and online looking for the aesthetics of the ind
 <img src="Transcoding%20Industrial%20Music/montycantsin.png" width=600></br>
 
 ### Methods
-The human was designed in MakeHuman. This program was chosen since it includes a high possibility of modification. The character became male, since men were the dominating sex in the industrial music movement. They often appeared skinny and raw. 
+The human was designed in MakeHuman. This program was chosen since it includes a high possibility of modification. The character became male, since men were the dominating sex in the industrial music movement. They often appeared skinny and raw. </br>
 <img src="Transcoding%20Industrial%20Music/character.png" width=400>
 <img src="Transcoding%20Industrial%20Music/character2.png" width=400></br>
 
