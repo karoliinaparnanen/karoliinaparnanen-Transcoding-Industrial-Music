@@ -3,13 +3,13 @@
 # Transcoding Industrial Music
 
 ### Table of Contents
-1. [Artefact](##Artefact)
-    1. [Metadata](##metadata)
+1. [Artefact](##artefact)
+    1. [Metadata](###metadata)
 2. [Research](##research)
 3. [Transcoding](##transcoding)
-    1. [Transcoding No. 1](##transcoding-no-1)
-    2. [Transcoding Tool](##transcoding-tool)
-4. [Reflection](##Reflection)
+    1. [Transcoding No. 1](###transcoding-no-1)
+    2. [Transcoding Tool](###transcoding-tool)
+4. [Reflection](##reflection)
 5. [Outcome](##outcome)
 6. [Conclusion](##conclusion)
 7. [Bibliography](##bibliography) 
