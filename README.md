@@ -13,12 +13,12 @@
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
-# Artefact
+## Artefact
 The artefacts in question are two industrial music complilations called "Extreme Art 1: Industrial Compilation" published in 1987 and "Extreme Art 2: Industrial Compilation" published in 1988 by Bizarr Verlag in Germany. The VHS tapes include music videos, live music performances and art performances from various artists from around the world, focusing on European artists. 
 
-# Metadata
+## Metadata
 
-## Artefact 1 – Extreme Art 1: Industrial Music Compilation
+### Artefact 1 – Extreme Art 1: Industrial Music Compilation
 
 | Tag | Data |  
 |--|--|
@@ -32,7 +32,7 @@ The artefacts in question are two industrial music complilations called "Extreme
 
 <img src="Transcoding%20Industrial%20Music/tracklist1.png" width=auto><br>
 
-## Artefact 2 – Extreme Art 2: Industrial Music Compilation
+### Artefact 2 – Extreme Art 2: Industrial Music Compilation
 
 | Tag | Data |  
 |--|--|
@@ -46,51 +46,51 @@ The artefacts in question are two industrial music complilations called "Extreme
 
 <img src="Transcoding%20Industrial%20Music/tracklist2.png" width=auto><br>
 
-# Research
+## Research
 
-## Ideology of Industrial Music
+### Ideology of Industrial Music
 The birth of industrial music was a response to an age in which the access and control of information were becoming the primary tools of power. As an artistic movement, it has formed due to the simultaneous fear and fascination of **how the information revolution and the effects of the age of mechanical reproduction affects the human condition and social consciousness.** As the purpose of all art is to expand the beholder's perception, so was the purpose of industrial music to help the listener achieve a better understanding and awareness of **how the advent of technology influences his view of the world.** **Industrial musicians “create particular modernist aesthetics that attempt **to comprehend and comment on what came to be known as the ‘modern crisis’ of the twentieth century.** Instead of rallying youth behind political slogans, **industrial artists preferred to “decondition” the individual listener by confronting taboos.** 
 
-## Visual aesthetics of Industrial Music
+### Visual aesthetics of Industrial Music
 Industrial music draws on harsh, transgressive or provocative sounds and themes. It is a form of **anti-music**, descendant of **da-da**, **surrealist** and **performance art** and an artistic yet intellectual manifestation of **nihilism**.  The industrial musicians created a particular modernist aesthetics that attemted to comprehend and comment on what came to be known as the "modern" crisis of the twentieth century". 
 
-## Auditory Aesthetics of Industrial Music
+### Auditory Aesthetics of Industrial Music
 At its birth, the genre of industrial music was different from any other music, and its **use of technology and disturbing lyrics and themes to tear apart preconceptions about the necessary rules of musical** form supports seeing industrial music as modernist music.  Industrial music also got known for its unconventional use of instruments, often including self-modified instruments and so-called **non-intruments** or found objects, which could be any objects the artist felt fitting to create auditory atmospheres. Use of drones and noise was popular. It often combined electronic instruments, such as **the keyoard and computer programming with electric guitars, bass, drums and vocals**. Lyrics were often present, but not easily understood word by word. The literal text of the lyrics was less important than creating an atmosphere were the listener could let go of their preconceptions of music and taste. 
 
 Industrial music's anarchist atmosphere enabled a rich variety of subgenres to develop, such as substyles inspirted by industrial music include dark ambient, power electronics, Japanoise, neofolk, electro-industrial, electronic body music, industrial hip hop, industrial rock, industrial metal, industrial pop, martial industrial, power noise, and witch house.
 
-## About the Publisher
+### About the Publisher
 Bizarr Verlag was a Munich based label owned by **Markus Schmölz**, which specialized in audio tour recordings in big cities around the world. Their sublabel AudioTours Streetlife published a series of field recordings. Nowadays the label is an online store selling cards, stickers and other merchandise. 
 [bizarrverlag.de](https://www.bizarrverlag.com/). 
 
-# Transcoding
+## Transcoding
 In my transcoding I wanted to research how a time-specific subculture could potentially be preserved with contemporary mediums. When the spirit of an aesthetical and political movement is taken out of its context, how will this affect the way it is perceived? How will the viewer exprience the industrial music scene through the context of a video game? How does the death of a medium, such as the VHS tape, affect the relevance of historical movements, that were mostly recorded in mediums that are not popular anymore, and whose content can not be found through modern mediums, such as the internet? Could giving an internet life to an analog medium enhance its relevane in the current age?
 
 On my transcoding I focused on two methods, preservation and transformation. On the other hand I wish to preserve the spirit of industrial music in a medium that is more approachable for the current generations, but on the other hand I was interested in exploring how the medium transforms and mutates the original in the process of translation. 
 
-## Transcoding 1: Industrial Character
+### Transcoding 1: Industrial Character
 The first transcoding I created was an attempt to create a character that would fit a digital environment of industrial music.
 
-### Description
+#### Description
 I did research on the VHS video and online looking for the aesthetics of the industrial music movement. They often seemed to be playing with combining punk and business aesthetics, as if somehow mocking the office culture of the newly industrialized cities. This is what I wanted to rech in my character as well, which I designed in [MakeHuman](http://www.makehumancommunity.org/). On the image below you see an example from the original artefact.</br>
 <img src="Transcoding%20Industrial%20Music/montycantsin.png" width=600></br>
 
-### Methods
+#### Methods
 The human was designed in MakeHuman. This program was chosen since it includes a high possibility of modification. The character became male, since men were the dominating sex in the industrial music movement. They often appeared skinny and raw. </br>
 <img src="Transcoding%20Industrial%20Music/character.png" width=400>
 <img src="Transcoding%20Industrial%20Music/character2.png" width=400></br>
 
-### Results
+#### Results
 A video clip where the MakeHuman characters are applied to Unity and a character controller script and animations are applied to character. You can view the video by clicking on the image below. The recording was made with QuickTime Player and sound added afterwards in Adobe Premiere.
 
 ![https://img.youtube.com/vi/66QS7464yMM/0.jpg](https://img.youtube.com/vi/66QS7464yMM/0.jpg)
 
-## Transcoding 2: Recreating a performance
+### Transcoding 2: Recreating a performance
 
-### Description
+#### Description
 I wanted to recreate a performance where a man was rolling around naked in transparent plastic, accompanied by some fast industrial music with screaming guitars and yelling vocals. Without sound, the performance is almost dreamy and surreal, whereas with sound it transforms into a discomforting demonstration of human distress and frustration. I wanted to play with the dreaminess of the setup and bring to life in the digital world. 
 
-### Methods
+#### Methods
 ![https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)</br>
 [Original performance](https://www.youtube.com/watch?v=yYAMkwFTI3E) as captured from the Extreme Art 1 VHS. 
 
@@ -99,26 +99,26 @@ Here I used [MakeHuman](http://www.makehumancommunity.org/) to create the naked 
 <img src="Transcoding%20Industrial%20Music/makehuman.png" width=600>
 <img src="Transcoding%20Industrial%20Music/makehumanclose.png" width=300> <img src="Transcoding%20Industrial%20Music/unityperformance.png" width=600>
 
-### Results
+#### Results
 A video clip of the transcoding can be seen in [YouTube](https://www.youtube.com/watch?v=mQrRI3le31k). The Unity recording was made by Unity Recorder, an internal Plugin for Unity. </br>
 
 ![https://img.youtube.com/vi/mQrRI3le31k/0.jpg](https://img.youtube.com/vi/mQrRI3le31k/0.jpg)
 
-## Transcoding 3: IN PROGRESS
+### Transcoding 3: IN PROGRESS
 
-### Description
+#### Description
 Bringing together elements from my other transcoding and creating a whole space where I reflect the questions of industrial music and how it translates into the digital environment. What is lost, what is enhanced, what new will be born?
 
-## Transcoding Tool
+### Transcoding Tool
 On the transcoding tool I focused on the part of transformation. What would happen to the original sounds if they were fed into an artificial intelligence algorithm that would try to recreate the samples based on the industrial music material. 
 
-### Description: Sample VAE - A multi-pupose tool for sound design and music production
+#### Description: Sample VAE - A multi-pupose tool for sound design and music production
 A deep learning-based tool made originally by Max Frenzel. The original documentation can be found on his [GitHub page](https://github.com/maxfrenzel/SampleVAE). The tool allows for various types of new sample generation, as well as sound classification, and searching for similar samples in an existing sample library. The deep learning part is implemented in TensorFlow and consists mainly of a Variational Autoencoder (VAE) with Inverse Autoregressive Flows (IAF) and an optional classifier network on top of the VAE's encoder's hidden state. You can read further [about the SampleVAE method in this article.](https://towardsdatascience.com/samplevae-a-multi-purpose-ai-tool-for-music-producers-and-sound-designers-e966c7562f22?source=friends_link&sk=588d13c6080568aca63f98e4d3835c87)
 
-### Aims
+#### Aims
 With this tool I wanted to embody the spirit of industrial music by taking the tools of music and noise creating into my own hands by producing sounds created by the algorithm. I wanted to see how a relatively simple artificial intelligence algorithm transforms the original source material. How much will the samples differ from one another? Will it be able to produce more than mere noise? 
 
-### Methods
+#### Methods
 - Coding language Python
 - Download Python scripts and models from [SampleVAE documentation] (https://github.com/maxfrenzel/SampleVAE)
 - Execute the Python scripts through Terminal
@@ -132,13 +132,13 @@ With this tool I wanted to embody the spirit of industrial music by taking the t
     - matplotlib==3.1.1
     - scikit_learn==0.21.3
     
-### Detailed instructions on how to execute the code
+#### Detailed instructions on how to execute the code
 
 <details><summary>CLICK ME TO EXPAND INSTRUCTIONS</summary>
 <p>
 The following instructions follow the original guidance of Max Frenzel, with some additions that I found helpful myself when using the code.
 
-#### Making a dataset for training
+##### Making a dataset for training
 Use the `make_dataset.py` script to generate a new dataset for trainig. The main parameters are `data_dir` and `dataset_name`. The former is a directory (or multiple directories) in which to look for samples (files ending in .wav, .aiff, or .mp3; only need to specify root directory, the script looks into all sub directories). The latter should a unique name for this dataset.
 For example, to search for files in the directories `/Users/Shared/Decoded Forms Library/Samples` and `/Users/Shared/Maschine 2 Library`, and create the dataset called `NativeInstruments`, run the command
 
@@ -148,12 +148,12 @@ For example, to search for files in the directories `/Users/Shared/Decoded Forms
 
 By default, the data is split randomly into 90% train and 10% validation data. The optional `train_ratio` parameter (defaults to 0.9) can be used to specify a different split.
 
-##### Creating a dataset that includes class information
+###### Creating a dataset that includes class information
 To add a classifier to the model, use `make_dataset_classifier.py` instead. This script works essentially in the same way as `make_dataset.py`, but it treats the immediate sub-directories in `data_dir` as class names, and assumes all samples within them belong to that resepective class.
 
 Currently only simple multiclass classification is supported. There is also no weighting of the classes happening so you should make sure that classes are as balanced as possible. Also, the current version does the train/validation split randomly; making sure the split happens evenly across classes is a simple future improvement.
 
-#### Training a model
+##### Training a model
 To train a model, use the `train.py` script. The main parameters of interest are `logdir` and `dataset`.
 
 `logdir` specifies a unique name for the model to be trained, and creates a directory in which model checkpoints and other files are saved. Training can later be resumed from this.
@@ -175,7 +175,7 @@ When resuming a previously aborted model training, the dataset does not have to 
 
 If the dataset contains classification data, a confusion matrix is plotted and stored in `logdir` at every test step.
 
-#### Pre-trained Models
+##### Pre-trained Models
 Three trained models are provided:
 
 `model_general`: A model trained on slightly over 60k samples of all types. This is the same dataset that was used in my NeuralFunk project (https://towardsdatascience.com/neuralfunk-combining-deep-learning-with-sound-design-91935759d628). This model does not have a classifier.
@@ -184,7 +184,7 @@ Three trained models are provided:
 
 `model_drum_machines`: A model trained on roughly 4k drum sounds, with a classifier of 71 different drum machine classes (e.g. Ace Tone Rhythm Ace, Akai XE8, Akai XR10 etc). Note that this is a tiny dataset with a very large number of classes, each only containing a handful of examples. This model is only included as an example of what's possible, not as a really useful model in itself.
 
-#### Running the sound sample tool with a trained model
+##### Running the sound sample tool with a trained model
 To use the sample tool, start a python environment and run
 
 ```
@@ -201,7 +201,7 @@ The parameter `library_dir` is optional and specifies a sample library root dire
 
 Once completely initialised, the tool can be used for sample generation and similarity search.
 
-#### Generating samples
+##### Generating samples
 To generate new samples, use the `generate` function.
 
 To sample a random point in latent space, decode it, and store the audio to `generated.wav`, run
@@ -220,12 +220,12 @@ Weight normalisation can be turned off by passing `normalize_weights=False`. Thi
 
 Additionally the `variance` parameter (default: 0) can be used to add some Gaussian noise before decoding, to add random variation to the samples.
 
-#### Note on sample length and audio segmentation
+##### Note on sample length and audio segmentation
 Currently, the tool/models treat all samples as 2 second long clips. Shorter files get padded, longer files crop.
 
 For the purpose of building the library, an additional parameter, `library_segmentation`, can be set to `True` when initialising the tool. If `False`, files in the library are simply considered as their first 2 second. However, if `True`, the segments within longer files are considered as individual samples for the purpose of the library and similarity search.Note that while this is implemented and technically working, the segmentation currently seems too sensitive.
 
-### Example of a full Terminal session following the above instructions
+#### Example of a full Terminal session following the above instructions
 
 <details><summary>Click me to view terminal session</summary>
 <p>
@@ -3987,22 +3987,22 @@ A [playlist](https://soundcloud.com/karoliina-parnanen/sets/ai-generated-noise-s
 - [MatPlotLib](https://matplotlib.org/)
 - [SciKit-Learn](https://scikit-learn.org/stable/)
 
-# Outcome
+## Outcome
 So far the outcomes consist of two separate transcoding experiments and a transcoding tool. 
 1. Creating an industrial music character with MakeHuman
 2. Recreating a performance as seen in Extreme Art 1, translating the performance into Unity.
 3. An Python AI tool which analyzes sample libraries and creates new samples based on deep learning.
 
-## In the making
+### In the making
 A final Unity environment where all the different elements come together and create a modern version reflecting on the ideas of industrial music, such as the role of technology, personal freedom, matter of taste, distribution of power and unconventional arts.
 
-## Outcome links
+### Outcome links
 1. [Creation of an industrial character](https://www.youtube.com/watch?v=66QS7464yMM)
 2. [Unity translation of a performance](https://www.youtube.com/watch?v=mQrRI3le31k).
 3. [AI tool generated samples](https://soundcloud.com/karoliina-parnanen/sets/ai-generated-noise-sample-pack-based-on-industrial-music/s-ixZuDiOzWbp)
 4. TBA!
 
-# Bibliography
+## Bibliography
 - https://www.britannica.com/art/industrial-music
 - https://www.popmatters.com/174151-assimilate-a-critical-history-of-industrial-music-2495735682.html?rebelltitem=1#rebelltitem1
 - http://www.metalstorm.net/pub/article.php?article_id=63
