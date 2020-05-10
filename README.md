@@ -8,10 +8,11 @@
     2. [Extreme Art 1](#extreme-art-1)
     3. [Extreme Art 2](#extreme-art-2)
 2. [Research](#research)
-    1. [Ideology of Industrial Music](#ideology-of-industrial-music)
-    2. [Visual aesthetics of Industrial Music](#visual-aesthetics-of-industrial-music)
-    3. [Auditory Aesthetics of Industrial Music](#auditory-aesthetics-of-industrial-music)
-    4. [About the Publisher](#about-the-publisher)
+    1. [Material Preview](#material-preview)
+    2. [Ideology of Industrial Music](#ideology-of-industrial-music)
+    3. [Visual aesthetics of Industrial Music](#visual-aesthetics-of-industrial-music)
+    4. [Auditory Aesthetics of Industrial Music](#auditory-aesthetics-of-industrial-music)
+    5. [About the Publisher](#about-the-publisher)
 3. [Transcoding](##transcoding)
     1. [Transcoding 1 Industrial Character](#transcoding-1-industrial-character)
     2. [Transcoding 2 Recreating a performance](#transcoding-2-recreating-a-performance)
@@ -86,6 +87,10 @@ The artefacts in question are two industrial music complilations called "Extreme
 | Harald Sack Ziegler | Teenage Lover
 
 ## Research
+
+### Material Preview
+| [![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Across_Below_-_Commute_With_The_Cutes_(Extreme_Art_2).gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E)| [![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Etant_Donnes_-_Le_Soleil%2C_la_Mer%2C_le_Coeur_et_les_Etoiles.gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E) |  
+| [![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Modern_Art_-_Forbidden_Universe_(Extreme_Art_2).gif)| [![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Industrial_Music_Performance.gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E)| 
 
 ### Ideology of Industrial Music
 The birth of industrial music was a response to an age in which the access and control of information were becoming the primary tools of power. As an artistic movement, it has formed due to the simultaneous fear and fascination of **how the information revolution and the effects of the age of mechanical reproduction affects the human condition and social consciousness.** As the purpose of all art is to expand the beholder's perception, so was the purpose of industrial music to help the listener achieve a better understanding and awareness of **how the advent of technology influences his view of the world.** **Industrial musicians “create particular modernist aesthetics that attempt **to comprehend and comment on what came to be known as the ‘modern crisis’ of the twentieth century.** Instead of rallying youth behind political slogans, **industrial artists preferred to “decondition” the individual listener by confronting taboos.** 
