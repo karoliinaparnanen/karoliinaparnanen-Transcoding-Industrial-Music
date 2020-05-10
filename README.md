@@ -1,5 +1,6 @@
 <img src="Transcoding%20Industrial%20Music/coverphoto.jpg" width="1920"/>
-## Transcoding Industrial Music
+
+# Transcoding Industrial Music
 
 ### Table of Contents
 1. [Artefact](##artefact)
