@@ -3,7 +3,7 @@
 # Transcoding Industrial Music
 
 ### Table of Contents
-1. [Artefact](##artefact)
+1. [Artefact](##Artefact)
     1. [Metadata](##metadata)
 2. [Research](##research)
 3. [Transcoding](##transcoding)
@@ -14,7 +14,7 @@
 6. [Conclusion](##conclusion)
 7. [Bibliography](##bibliography) 
 
-## artefact
+## Artefact
 The artefacts in question are two industrial music complilations called "Extreme Art 1: Industrial Compilation" published in 1987 and "Extreme Art 2: Industrial Compilation" published in 1988 by Bizarr Verlag in Germany. The VHS tapes include music videos, live music performances and art performances from various artists from around the world, focusing on European artists. 
 
 ### Metadata
