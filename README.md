@@ -54,8 +54,6 @@ The artefacts in question are two industrial music complilations called "Extreme
 | Monty Cantsin, Medvigy Gabor | Alles Klar
 | Albrecht/d. + Kinky Beaux Arts | Erotique Neurotique
 
-<img src="Transcoding%20Industrial%20Music/tracklist1.png" width=auto><br>
-
 ### Extreme Art 2
 
 | Tag | Data |  
@@ -68,7 +66,24 @@ The artefacts in question are two industrial music complilations called "Extreme
 | **Date** | 1988
 |![VHS cover](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/extremeart.jpg)| The washed out purple, blue, white and black shaded cover image shows a a video still of a photographic, ghost-like figure approaching the viewer with open hands. The figure is heavily lit from the back, so any details of the figure are not visible. The black figure's silhouette is visible over a light, almost white background. the image quality resembles that of an 80's television screen capture. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "2" stands isolated in a bigger size on the lower left corner. The dimensions of the VHS tape inside are 18.7 × 10.2 × 2.5 cm. <br>
 
-<img src="Transcoding%20Industrial%20Music/tracklist2.png" width=auto><br>
+| Artist | Track |  
+|--|--|
+| Das Synthetische Mischgewebe | Etude Pour Membranes / Die Muschel
+| MGZ And Technological Feeling, Cecilia Comuzio| 1 Aprile 1988 - The Birth
+| Human Head Transplant, Cl.Ar.Clipartists | Beschleunigung Des Künstlers
+| Erbrochene Embryos, R.Technics | Ugly
+| Nox, Cécile Babiole | Tournis
+| U.V.M. And Kim IL Jung, .I.I.P. Video Dept. | Ultra Violent Males Live Action
+| Kasper T Toeplitz, Ensad | Transfuge
+| Andreas Merz, Smart Cursor Production	| Scan Across By Double Grid
+| X-Ray Pop | La Speleo Sous Juponnique
+| Dead Chickens | Live In Concert
+| Kurt Hennrich, Cl.Ar.Clipartists | Idee Einer Stadt
+| Officine Schwartz, C.TV. | Nobili Gas
+| VF Decoder | Kill The Cat
+| MGZ And Technological Feeling, Cecilia Comuzio | My Life Den Den
+| Monty Cantsin | Born Again In Flames
+| Harald Sack Ziegler | Teenage Lover
 
 ## Research
 
