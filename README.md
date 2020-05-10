@@ -101,6 +101,7 @@ I wanted to recreate a performance where a man was rolling around naked in trans
 
 #### Methods
 ![https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)</br>
+[![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Industrial_Music_Performance.gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E)
 [Original performance](https://www.youtube.com/watch?v=yYAMkwFTI3E) as captured from the Extreme Art 1 VHS. 
 
 Here I used [MakeHuman](http://www.makehumancommunity.org/) to create the naked character, and attached the pieces of cloth in [Unity](https://unity.com/). Some programming with C# was included as well. The cloths were added in Unity and their materials were also created in Unity. </br>
