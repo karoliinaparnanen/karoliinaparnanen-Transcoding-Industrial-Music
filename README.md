@@ -82,12 +82,12 @@ The first transcoding I created was an attempt to create a character that would 
 
 #### Description
 I did research on the VHS video and online looking for the aesthetics of the industrial music movement. They often seemed to be playing with combining punk and business aesthetics, as if somehow mocking the office culture of the newly industrialized cities. This is what I wanted to rech in my character as well, which I designed in [MakeHuman](http://www.makehumancommunity.org/). On the image below you see an example from the original artefact.</br>
-<img src="Transcoding%20Industrial%20Music/montycantsin.png" width=600></br>
+<img src="https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/montycantsin.png" width=600></br>
 
 #### Methods
 The human was designed in MakeHuman. This program was chosen since it includes a high possibility of modification. The character became male, since men were the dominating sex in the industrial music movement. They often appeared skinny and raw. </br>
-<img src="Transcoding%20Industrial%20Music/character.png" width=400>
-<img src="Transcoding%20Industrial%20Music/character2.png" width=400></br>
+<img src="https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/character.png" width=400>
+<img src="https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/character2.png" width=400></br>
 
 #### Results
 A video clip where the MakeHuman characters are applied to Unity and a character controller script and animations are applied to character. You can view the video by clicking on the image below. The recording was made with QuickTime Player and sound added afterwards in Adobe Premiere.
@@ -105,8 +105,8 @@ I wanted to recreate a performance where a man was rolling around naked in trans
 
 Here I used [MakeHuman](http://www.makehumancommunity.org/) to create the naked character, and attached the pieces of cloth in [Unity](https://unity.com/). Some programming with C# was included as well. The cloths were added in Unity and their materials were also created in Unity. </br>
 
-<img src="Transcoding%20Industrial%20Music/makehuman.png" width=600>
-<img src="Transcoding%20Industrial%20Music/makehumanclose.png" width=300> <img src="Transcoding%20Industrial%20Music/unityperformance.png" width=600>
+<img src="https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/makehuman.png" width=600>
+<img src="Transcoding%20Industrial%20Music/makehumanclose.png" width=300> <img src="https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/unityperformance.png" width=600>
 
 #### Results
 A video clip of the transcoding can be seen in [YouTube](https://www.youtube.com/watch?v=mQrRI3le31k). The Unity recording was made by Unity Recorder, an internal Plugin for Unity. </br>
