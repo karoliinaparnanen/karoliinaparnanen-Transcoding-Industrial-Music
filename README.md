@@ -14,10 +14,10 @@
 6. [Conclusion](##conclusion)
 7. [Bibliography](##bibliography) 
 
-## Artefact
+## artefact
 The artefacts in question are two industrial music complilations called "Extreme Art 1: Industrial Compilation" published in 1987 and "Extreme Art 2: Industrial Compilation" published in 1988 by Bizarr Verlag in Germany. The VHS tapes include music videos, live music performances and art performances from various artists from around the world, focusing on European artists. 
 
-## Metadata
+### Metadata
 
 ### Artefact 1 – Extreme Art 1: Industrial Music Compilation
 
