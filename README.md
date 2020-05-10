@@ -119,7 +119,7 @@ The first transcoding I created was an attempt to create a character that would 
 
 #### Description
 I did research on the VHS video and online looking for the aesthetics of the industrial music movement. They often seemed to be playing with combining punk and business aesthetics, as if somehow mocking the office culture of the newly industrialized cities. This is what I wanted to rech in my character as well, which I designed in [MakeHuman](http://www.makehumancommunity.org/). On the image below you see an example from the original artefact.</br>
-<img src="https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/montycantsin.png" width=600></br>
+<img src="https://raw.githubusercontent.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/master/Transcoding%20Industrial%20Music/montycantsin.png" width=600></br>
 
 #### Methods
 The human was designed in MakeHuman. This program was chosen since it includes a high possibility of modification. The character became male, since men were the dominating sex in the industrial music movement. They often appeared skinny and raw. </br>
