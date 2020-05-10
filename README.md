@@ -183,7 +183,9 @@ With this tool I wanted to embody the spirit of industrial music by taking the t
 <p>
 The following instructions follow the original guidance of Max Frenzel, with some additions that I found helpful myself when using the code.
 
-**Making a dataset for training**<br>
+
+**Making a dataset for training**<br><br>
+
 Use the `make_dataset.py` script to generate a new dataset for trainig. The main parameters are `data_dir` and `dataset_name`. The former is a directory (or multiple directories) in which to look for samples (files ending in .wav, .aiff, or .mp3; only need to specify root directory, the script looks into all sub directories). The latter should a unique name for this dataset.
 For example, to search for files in the directories `/Users/Shared/Decoded Forms Library/Samples` and `/Users/Shared/Maschine 2 Library`, and create the dataset called `NativeInstruments`, run the command
 
@@ -193,12 +195,16 @@ For example, to search for files in the directories `/Users/Shared/Decoded Forms
 
 By default, the data is split randomly into 90% train and 10% validation data. The optional `train_ratio` parameter (defaults to 0.9) can be used to specify a different split.<br>
 
-**Creating a dataset that includes class information**<br>
+
+**Creating a dataset that includes class information**<br><br>
+
 To add a classifier to the model, use `make_dataset_classifier.py` instead. This script works essentially in the same way as `make_dataset.py`, but it treats the immediate sub-directories in `data_dir` as class names, and assumes all samples within them belong to that resepective class.
 
 Currently only simple multiclass classification is supported. There is also no weighting of the classes happening so you should make sure that classes are as balanced as possible. Also, the current version does the train/validation split randomly; making sure the split happens evenly across classes is a simple future improvement.<br>
 
-**Training a model**<br>
+
+**Training a model**<br><br>
+
 To train a model, use the `train.py` script. The main parameters of interest are `logdir` and `dataset`.
 
 `logdir` specifies a unique name for the model to be trained, and creates a directory in which model checkpoints and other files are saved. Training can later be resumed from this.
@@ -229,7 +235,9 @@ Three trained models are provided:
 
 `model_drum_machines`: A model trained on roughly 4k drum sounds, with a classifier of 71 different drum machine classes (e.g. Ace Tone Rhythm Ace, Akai XE8, Akai XR10 etc). Note that this is a tiny dataset with a very large number of classes, each only containing a handful of examples. This model is only included as an example of what's possible, not as a really useful model in itself.
 
-**Running the sound sample tool with a trained model** <br>
+
+**Running the sound sample tool with a trained model** <br><br>
+
 To use the sample tool, start a python environment and run
 
 ```
@@ -246,7 +254,9 @@ The parameter `library_dir` is optional and specifies a sample library root dire
 
 Once completely initialised, the tool can be used for sample generation and similarity search.
 
-**Generating samples**<br>
+
+**Generating samples**<br><br>
+
 To generate new samples, use the `generate` function.
 
 To sample a random point in latent space, decode it, and store the audio to `generated.wav`, run
