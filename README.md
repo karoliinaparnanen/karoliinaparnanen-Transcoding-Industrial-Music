@@ -2,7 +2,7 @@
 # Transcoding Industrial Music
 
 ### Table of Contents
-1. [Artefact](##artefact)
+1. [Artefact](## artefact)
     1. [Metadata](##metadata)
 2. [Research](##research)
 3. [Transcoding](##transcoding)
