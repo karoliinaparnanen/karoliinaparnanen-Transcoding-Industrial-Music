@@ -2,16 +2,16 @@
 # Transcoding Industrial Music
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research)
-3. [Transcoding](#Transcoding)
-    1. [Transcoding No. 1](#Transcoding-no-1)
-    2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography) 
+1. [Artefact](##artefact)
+    1. [Metadata](##metadata)
+2. [Research](##research)
+3. [Transcoding](##transcoding)
+    1. [Transcoding No. 1](##transcoding-no-1)
+    2. [Transcoding Tool](##transcoding-tool)
+4. [Reflection](##reflection)
+5. [Outcome](##outcome)
+6. [Conclusion](##conclusion)
+7. [Bibliography](##bibliography) 
 
 ## Artefact
 The artefacts in question are two industrial music complilations called "Extreme Art 1: Industrial Compilation" published in 1987 and "Extreme Art 2: Industrial Compilation" published in 1988 by Bizarr Verlag in Germany. The VHS tapes include music videos, live music performances and art performances from various artists from around the world, focusing on European artists. 
