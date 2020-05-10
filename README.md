@@ -39,6 +39,21 @@ The artefacts in question are two industrial music complilations called "Extreme
 | **Date** | 1987
 |![VHS cover](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/extremeart6.jpg)| The washed out pink, purple, blue, white and black shaded cover image shows a video still closeup of a man's face. From the camera's perspective, the man is looking down on the viewer with half-closed eyelids. His mouth is relaxed. The strong contrast, half washed out face and pixels that remind one of an 80's television screen make the image of him appear dreamlike, ecstatic and intentionally grunfy and careless. The title "Extreme Art Industrial Compilation" is spread through the top part with a black type, whose serifs are sharp like knives. The number "1" stands isolated in a bigger size on the lower left corner. The dimensions of the VHS tape inside are 18.7 × 10.2 × 2.5 cm. <br>
 
+| Artist | Track |  
+|--|--|
+| Tasaday | La Sacralita Senza Tempo 
+| Riccardo Sinigaglia, Mario Canali | Appunti
+| Monty Cantsin, Neam Cathod | Visiting Artist
+| Dependance, Laton | Spoil The Body
+| Smart Cursor Production, Andreas Merz | The Savage Mind
+| DDAA | Chant Rituel II
+| Modern Art | Excerpt "Forbidden Universe"
+| Vivenza, C.E.R.I.S.E. | Lenine
+| Armand Band, Kirielle-Fr3 | Carmela
+| Étant Donnés | Le Soleil, La Mer, Le Coeur Et Les Etoiles
+| Monty Cantsin, Medvigy Gabor | Alles Klar
+| Albrecht/d. + Kinky Beaux Arts | Erotique Neurotique
+
 <img src="Transcoding%20Industrial%20Music/tracklist1.png" width=auto><br>
 
 ### Extreme Art 2
