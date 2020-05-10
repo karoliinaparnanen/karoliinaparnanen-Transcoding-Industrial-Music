@@ -3996,6 +3996,8 @@ A [playlist](https://soundcloud.com/karoliina-parnanen/sets/ai-generated-noise-s
 - [MatPlotLib](https://matplotlib.org/)
 - [SciKit-Learn](https://scikit-learn.org/stable/)
 
+## Reflection
+
 ## Outcome
 So far the outcomes consist of two separate transcoding experiments and a transcoding tool. 
 1. Creating an industrial music character with MakeHuman
@@ -4010,6 +4012,8 @@ A final Unity environment where all the different elements come together and cre
 2. [Unity translation of a performance](https://www.youtube.com/watch?v=mQrRI3le31k).
 3. [AI tool generated samples](https://soundcloud.com/karoliina-parnanen/sets/ai-generated-noise-sample-pack-based-on-industrial-music/s-ixZuDiOzWbp)
 4. TBA!
+
+## Conclusion
 
 ## Bibliography
 - https://www.britannica.com/art/industrial-music
