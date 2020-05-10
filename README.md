@@ -100,7 +100,6 @@ A video clip where the MakeHuman characters are applied to Unity and a character
 I wanted to recreate a performance where a man was rolling around naked in transparent plastic, accompanied by some fast industrial music with screaming guitars and yelling vocals. Without sound, the performance is almost dreamy and surreal, whereas with sound it transforms into a discomforting demonstration of human distress and frustration. I wanted to play with the dreaminess of the setup and bring to life in the digital world. 
 
 #### Methods
-![https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg](https://img.youtube.com/vi/yYAMkwFTI3E/0.jpg)</br>
 [![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Industrial_Music_Performance.gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E)</br>
 [Original performance](https://www.youtube.com/watch?v=yYAMkwFTI3E) as captured from the Extreme Art 1 VHS. 
 
