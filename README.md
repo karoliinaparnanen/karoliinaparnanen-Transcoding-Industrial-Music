@@ -91,7 +91,7 @@ The artefacts in question are two industrial music complilations called "Extreme
 ### Material Preview
 | Material | Preview |  
 |--|--|
-| [![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Across_Below_-_Commute_With_The_Cutes_(Extreme_Art_2).gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E)| [![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Etant_Donnes_-_Le_Soleil%2C_la_Mer%2C_le_Coeur_et_les_Etoiles.gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E) |
+| [![Original Performance](https://raw.githubusercontent.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/master/Transcoding%20Industrial%20Music/Across_Below_-_Commute_With_The_Cutes_(Extreme_Art_2).gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E)| [![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Etant_Donnes_-_Le_Soleil%2C_la_Mer%2C_le_Coeur_et_les_Etoiles.gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E) |
 | [![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Modern_Art_-_Forbidden_Universe_(Extreme_Art_2).gif)|[![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/Industrial_Music_Performance.gif)](https://www.youtube.com/watch?v=yYAMkwFTI3E)| 
 
 ### Ideology of Industrial Music
