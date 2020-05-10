@@ -90,9 +90,9 @@ The human was designed in MakeHuman. This program was chosen since it includes a
 <img src="https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/character2.png" width=400></br>
 
 #### Results
-A video clip where the MakeHuman characters are applied to Unity and a character controller script and animations are applied to character. You can view the video by clicking on the image below. The recording was made with QuickTime Player and sound added afterwards in Adobe Premiere.
+A video clip where the MakeHuman characters are applied to Unity and a character controller script and animations are applied to character. You can view the video by clicking on the image below. The recording was made with QuickTime Player and sound added afterwards in Adobe Premiere.</br>
+[![Original Performance](https://github.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/blob/master/Transcoding%20Industrial%20Music/karobluedancers_1.gif)](https://www.youtube.com/watch?v=66QS7464yMM)</br>
 
-![https://img.youtube.com/vi/66QS7464yMM/0.jpg](https://img.youtube.com/vi/66QS7464yMM/0.jpg)
 
 ### Recreating a performance
 
