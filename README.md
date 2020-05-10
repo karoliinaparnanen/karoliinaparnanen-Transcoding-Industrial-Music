@@ -5,10 +5,18 @@
 ### Table of Contents
 1. [Artefact](#artefact)
     1. [Metadata](#metadata)
+    2. [Extreme Art 1](#extreme-art-1)
+    3. [Extreme Art 2](#extreme-art-2)
 2. [Research](#research)
+    1. [Ideology of Industrial Music](#ideology-of-industrial-music)
+    2. [Visual aesthetics of Industrial Music](#visual-aesthetics-of-industrial-music)
+    3. [Auditory Aesthetics of Industrial Music](#auditory-aesthetics-of-industrial-music)
+    4. [About the Publisher](#about-the-publisher)
 3. [Transcoding](##transcoding)
-    1. [Transcoding No. 1](#transcoding-no-1)
-    2. [Transcoding Tool](#transcoding-tool)
+    1. [Transcoding 1 Industrial Character](#transcoding-1-industrial-character)
+    2. [Transcoding 2 Recreating a performance](#transcoding-2-recreating-a-performance)
+    3. [Transcoding 3](#transcoding-3)
+    4. [Transcoding Tool](#transcoding-tool)
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
 6. [Conclusion](#conclusion)
@@ -19,7 +27,7 @@ The artefacts in question are two industrial music complilations called "Extreme
 
 ### Metadata
 
-### Artefact 1 – Extreme Art 1: Industrial Music Compilation
+#### Extreme Art 1
 
 | Tag | Data |  
 |--|--|
@@ -33,7 +41,7 @@ The artefacts in question are two industrial music complilations called "Extreme
 
 <img src="Transcoding%20Industrial%20Music/tracklist1.png" width=auto><br>
 
-### Artefact 2 – Extreme Art 2: Industrial Music Compilation
+### Extreme Art 2
 
 | Tag | Data |  
 |--|--|
@@ -69,7 +77,7 @@ In my transcoding I wanted to research how a time-specific subculture could pote
 
 On my transcoding I focused on two methods, preservation and transformation. On the other hand I wish to preserve the spirit of industrial music in a medium that is more approachable for the current generations, but on the other hand I was interested in exploring how the medium transforms and mutates the original in the process of translation. 
 
-### Transcoding 1: Industrial Character
+### Industrial Character
 The first transcoding I created was an attempt to create a character that would fit a digital environment of industrial music.
 
 #### Description
@@ -86,7 +94,7 @@ A video clip where the MakeHuman characters are applied to Unity and a character
 
 ![https://img.youtube.com/vi/66QS7464yMM/0.jpg](https://img.youtube.com/vi/66QS7464yMM/0.jpg)
 
-### Transcoding 2: Recreating a performance
+### Recreating a performance
 
 #### Description
 I wanted to recreate a performance where a man was rolling around naked in transparent plastic, accompanied by some fast industrial music with screaming guitars and yelling vocals. Without sound, the performance is almost dreamy and surreal, whereas with sound it transforms into a discomforting demonstration of human distress and frustration. I wanted to play with the dreaminess of the setup and bring to life in the digital world. 
