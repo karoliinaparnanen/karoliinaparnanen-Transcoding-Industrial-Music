@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/master/Transcoding%20Industrial%20Music/coverphoto-small.jpg" width="1920"/>
-
 # Transcoding Industrial Music
 
 ### Table of Contents
