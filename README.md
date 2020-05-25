@@ -4048,15 +4048,13 @@ So far the outcomes consist of two separate transcoding experiments and a transc
 1. Creating an industrial music character with MakeHuman
 2. Recreating a performance as seen in Extreme Art 1, translating the performance into Unity.
 3. An Python AI tool which analyzes sample libraries and creates new samples based on deep learning.
-
-### In the making
-A final Unity environment where all the different elements come together and create a modern version reflecting on the ideas of industrial music, such as the role of technology, personal freedom, matter of taste, distribution of power and unconventional arts.
+4. A final Unity environment where all the different elements come together and create a modern version reflecting on the ideas of industrial music, such as the role of technology, personal freedom, matter of taste, distribution of power and unconventional arts.
 
 ### Outcome links
 1. [Creation of an industrial character](https://www.youtube.com/watch?v=66QS7464yMM)
 2. [Unity translation of a performance](https://www.youtube.com/watch?v=mQrRI3le31k).
 3. [AI tool generated samples](https://soundcloud.com/karoliina-parnanen/sets/ai-generated-noise-sample-pack-based-on-industrial-music/s-ixZuDiOzWbp)
-4. TBA!
+4. [![Unity Game Environment](https://raw.githubusercontent.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/master/Transcoding%20Industrial%20Music/transcoding.gif)](https://vimeo.com/419777045)</br>
 
 ## Conclusion
 
