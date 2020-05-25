@@ -4055,6 +4055,8 @@ So far the outcomes consist of two separate transcoding experiments and a transc
 2. [Unity translation of a performance](https://www.youtube.com/watch?v=mQrRI3le31k).
 3. [AI tool generated samples](https://soundcloud.com/karoliina-parnanen/sets/ai-generated-noise-sample-pack-based-on-industrial-music/s-ixZuDiOzWbp)
 4. [![Unity Game Environment](https://raw.githubusercontent.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/master/Transcoding%20Industrial%20Music/transcoding.gif)](https://vimeo.com/419777045)</br>
+[![Unity Game Environment](https://raw.githubusercontent.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/master/Transcoding%20Industrial%20Music/Transcoding_Industrial_Music%20(1).gif)](https://vimeo.com/419777045)</br>
+
 
 ## Conclusion
 In the end the Unity environment brought together nicely the different aspects of transcoding. The only part that was left out from there, was the Python AI generated music samples (outcome 3.), since they turned out all sounding quite similar and would've required a lot of post-processing to make a nice soundscape. In the end it made more sense to use the original music from the video recording to enable the user to relive the atmosphere of the selected music videos. 
