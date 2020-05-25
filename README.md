@@ -4054,7 +4054,7 @@ So far the outcomes consist of two separate transcoding experiments and a transc
 1. [Creation of an industrial character](https://www.youtube.com/watch?v=66QS7464yMM)
 2. [Unity translation of a performance](https://www.youtube.com/watch?v=mQrRI3le31k).
 3. [AI tool generated samples](https://soundcloud.com/karoliina-parnanen/sets/ai-generated-noise-sample-pack-based-on-industrial-music/s-ixZuDiOzWbp)
-4. [![Unity Game Environment](https://raw.githubusercontent.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/master/Transcoding%20Industrial%20Music/transcoding.gif)](https://vimeo.com/419777045)</br>
+4. Unity Game Environment </br> [![Unity Game Environment](https://raw.githubusercontent.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/master/Transcoding%20Industrial%20Music/transcoding.gif)](https://vimeo.com/419777045)</br>
 [![Unity Game Environment](https://raw.githubusercontent.com/karoliinaparnanen/karoliinaparnanen-Transcoding-Industrial-Music/master/Transcoding%20Industrial%20Music/Transcoding_Industrial_Music%20(1).gif)](https://vimeo.com/419777045)</br>
 
 
